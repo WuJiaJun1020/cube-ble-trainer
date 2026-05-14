@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+
+.venv/
+venv/
+
+build/
+dist/
+
+*.log
+.env
+
+.DS_Store
+Thumbs.db
+
+timer_history.json
