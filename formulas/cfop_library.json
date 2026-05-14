@@ -1,0 +1,1352 @@
+[
+  {
+    "category": "F2L",
+    "case_id": "F2L 1",
+    "slot": "Front Right",
+    "name": "F2L 1 Front Right",
+    "algorithms": [
+      "U R U' R'",
+      "R' F R F'",
+      "y' r' U' R U M'",
+      "y U F' L F L2 U L"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 2",
+    "slot": "Front Right",
+    "name": "F2L 2 Front Right",
+    "algorithms": [
+      "F R' F' R",
+      "y' U' R' U R",
+      "U' F' U F",
+      "y U' L' U L"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 3",
+    "slot": "Front Right",
+    "name": "F2L 3 Front Right",
+    "algorithms": [
+      "F' U' F",
+      "y' R' U' R",
+      "y L' U' L",
+      "S U R U' R' S'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 4",
+    "slot": "Front Right",
+    "name": "F2L 4 Front Right",
+    "algorithms": [
+      "R U R'",
+      "y' f R f'",
+      "y F U F'",
+      "y2 L U L'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 5",
+    "slot": "Front Right",
+    "name": "F2L 5 Front Right",
+    "algorithms": [
+      "U' R U R' U2 R U' R'",
+      "F2 L' U' L U F2",
+      "U' R U R' U' R U2 R'",
+      "U' R U R' U R' F R F'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 6",
+    "slot": "Front Right",
+    "name": "F2L 6 Front Right",
+    "algorithms": [
+      "U' r U' R' U R U r'",
+      "y' U R' U' R U2 R' U R",
+      "d R' U' R U2 R' U R",
+      "U F' U' F U2 F' U F"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 7",
+    "slot": "Front Right",
+    "name": "F2L 7 Front Right",
+    "algorithms": [
+      "U' R U2 R' U' R U2 R'",
+      "M' U' M U2 r U' r'",
+      "U' R U2 R' U2 R U' R'",
+      "U' R U2 R' U R' F R F'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 8",
+    "slot": "Front Right",
+    "name": "F2L 8 Front Right",
+    "algorithms": [
+      "d R' U2 R U R' U2 R",
+      "r' U2 R2 U R2 U r",
+      "y' U R' U2 R U2 R' U R",
+      "y U L' U2 L U2 L' U L"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 9",
+    "slot": "Front Right",
+    "name": "F2L 9 Front Right",
+    "algorithms": [
+      "U' R U' R' U F' U' F",
+      "F R U R' U' F' R U' R'",
+      "U' R U' R' d R' U' R",
+      "d R' U' R U' R' U' R"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 10",
+    "slot": "Front Right",
+    "name": "F2L 10 Front Right",
+    "algorithms": [
+      "U' R U R' U R U R'",
+      "U2 R U' R' U' R U R'",
+      "d R' U R d' R U R'",
+      "y' U R' U R U' f R f'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 11",
+    "slot": "Front Right",
+    "name": "F2L 11 Front Right",
+    "algorithms": [
+      "U' R U2 R' U F' U' F",
+      "y' R U2 R2 U' R2 U' R'",
+      "U' R U2 R' d R' U' R",
+      "F' U L' U2 L U2 F"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 12",
+    "slot": "Front Right",
+    "name": "F2L 12 Front Right",
+    "algorithms": [
+      "R U' R' U R U' R' U2 R U' R'",
+      "R' U2 R2 U R2 U R",
+      "U R U' R' U' R U R' U' R U R'",
+      "R' D' R U2 R' D R2 U R'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 13",
+    "slot": "Front Right",
+    "name": "F2L 13 Front Right",
+    "algorithms": [
+      "y' U R' U R U' R' U' R",
+      "M' U' R U R' U2 R U' r'",
+      "d R' U R U' R' U' R",
+      "R U' R' U R' F R F' R U' R'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 14",
+    "slot": "Front Right",
+    "name": "F2L 14 Front Right",
+    "algorithms": [
+      "U' R U' R' U R U R'",
+      "R U2 R' U2 R U R' U2 R U' R'",
+      "U' R2 D R' U R D' R2",
+      "U2 R2 U R' U R U2 R2"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 15",
+    "slot": "Front Right",
+    "name": "F2L 15 Front Right",
+    "algorithms": [
+      "R' D' R U' R' D R U R U' R'",
+      "M U r U' r' U' M'",
+      "R U R' U2 R U' R' U R U' R'",
+      "F' U F U2 R U R'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 16",
+    "slot": "Front Right",
+    "name": "F2L 16 Front Right",
+    "algorithms": [
+      "R U' R' U2 F' U' F",
+      "R U' R' U2 y' R' U' R",
+      "U M' U R U' r' U' R U R'",
+      "U F U R U' R' F' R U R'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 17",
+    "slot": "Front Right",
+    "name": "F2L 17 Front Right",
+    "algorithms": [
+      "R U2 R' U' R U R'",
+      "y2 L U2 L' U' L U L'",
+      "R U R' U' R U2 R' U2 R U R'",
+      "y L F' L' F L' U L U' L' U L"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 18",
+    "slot": "Front Right",
+    "name": "F2L 18 Front Right",
+    "algorithms": [
+      "y' R' U2 R U R' U' R",
+      "y L' U2 L U L' U' L",
+      "F' U2 F U F' U' F",
+      "R' F R F' R U' R' U R U' R'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 19",
+    "slot": "Front Right",
+    "name": "F2L 19 Front Right",
+    "algorithms": [
+      "U R U2 R' U R U' R'",
+      "U R U2 R2 F R F'",
+      "d f R2 f' U f R' f'",
+      "R U' R' U R U' R' U R U R'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 20",
+    "slot": "Front Right",
+    "name": "F2L 20 Front Right",
+    "algorithms": [
+      "y' U' R' U2 R U' R' U R",
+      "U' R U' R2 F R F' R U' R'",
+      "y U' L' U2 L U' L' U L",
+      "U' F' U2 F U' F' U F"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 21",
+    "slot": "Front Right",
+    "name": "F2L 21 Front Right",
+    "algorithms": [
+      "U2 R U R' U R U' R'",
+      "R U' R' U2 R U R'",
+      "R B U2 B' R'",
+      "y' f R' f' U2 f R f'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 22",
+    "slot": "Front Right",
+    "name": "F2L 22 Front Right",
+    "algorithms": [
+      "r U' r' U2 r U r'",
+      "F' L' U2 L F",
+      "y' U2 R' U' R U' R' U R",
+      "y U2 L' U' L U' L' U L"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 23",
+    "slot": "Front Right",
+    "name": "F2L 23 Front Right",
+    "algorithms": [
+      "U R U' R' U' R U' R' U R U' R'",
+      "R U R' U2 R U R' U' R U R'",
+      "U2 R2 U2 R' U' R U' R2",
+      "R U' R2 D' R U2 R' D R"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 24",
+    "slot": "Front Right",
+    "name": "F2L 24 Front Right",
+    "algorithms": [
+      "F U R U' R' F' R U' R'",
+      "y' R' U' R U2 R' U' R U R' U' R",
+      "U' R U R2 F R F' R U' R'",
+      "y U' L' U L U L' U L U' L' U L"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 25",
+    "slot": "Front Right",
+    "name": "F2L 25 Front Right",
+    "algorithms": [
+      "U' R' F R F' R U R'",
+      "R' F' R U R U' R' F",
+      "U' F' R U R' U' R' F R",
+      "U' F' U F U R U' R'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 26",
+    "slot": "Front Right",
+    "name": "F2L 26 Front Right",
+    "algorithms": [
+      "U R U' R' F R' F' R",
+      "R S' R' U R S R'",
+      "U R U R' U' y L' U' L",
+      "U R U' R' U' F' U F"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 27",
+    "slot": "Front Right",
+    "name": "F2L 27 Front Right",
+    "algorithms": [
+      "R U' R' U R U' R'",
+      "F' U' F U2 R U' R'",
+      "y' f R' f' U f R' f'",
+      "y' f R' f' r' U' R U M'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 28",
+    "slot": "Front Right",
+    "name": "F2L 28 Front Right",
+    "algorithms": [
+      "R U R' U' F R' F' R",
+      "y L' U L U' L' U L",
+      "F' U F U' F' U F",
+      "y' R' U R U' R' U R"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 29",
+    "slot": "Front Right",
+    "name": "F2L 29 Front Right",
+    "algorithms": [
+      "R' F R F' U R U' R'",
+      "y L' U' L U L' U' L",
+      "y' R' U' R U R' U' R",
+      "R' F R F' R' F R F'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 30",
+    "slot": "Front Right",
+    "name": "F2L 30 Front Right",
+    "algorithms": [
+      "R U R' U' R U R'",
+      "U' R U2 R' U2 R U R'",
+      "U' F R' F' R2 U R'",
+      "U2 F' U F R U R'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 31",
+    "slot": "Front Right",
+    "name": "F2L 31 Front Right",
+    "algorithms": [
+      "U' R' F R F' R U' R'",
+      "R U' R' U y' R' U R",
+      "F' U F R U2 R'",
+      "R U' R' U y L' U L"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 32",
+    "slot": "Front Right",
+    "name": "F2L 32 Front Right",
+    "algorithms": [
+      "U R U' R' U R U' R' U R U' R'",
+      "R U R' U' R U R' U' R U R'",
+      "R2 U R2 U R2 U2 R2",
+      "U' F R' F' R U' R U R'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 33",
+    "slot": "Front Right",
+    "name": "F2L 33 Front Right",
+    "algorithms": [
+      "U' R U' R' U2 R U' R'",
+      "y R' D R U' R' D' R",
+      "R U R' U' R U' R' U R U' R'",
+      "U' R U' R' U' R U2 R'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 34",
+    "slot": "Front Right",
+    "name": "F2L 34 Front Right",
+    "algorithms": [
+      "U R U R' U2 R U R'",
+      "U' R U2 R' U R U R'",
+      "U R' D' R U' R' D R",
+      "y U L' U L U2 L' U L"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 35",
+    "slot": "Front Right",
+    "name": "F2L 35 Front Right",
+    "algorithms": [
+      "U' R U R' U F' U' F",
+      "U' R U R' d R' U' R",
+      "U2 R U R' F R' F' R",
+      "U' R U R' U y' R' U' R"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 36",
+    "slot": "Front Right",
+    "name": "F2L 36 Front Right",
+    "algorithms": [
+      "U F' U' F U' R U R'",
+      "U2 R' F R F' U2 R U R'",
+      "R2 u R U R' U' u' R' U R'",
+      "y U L' U' L U' y' R U R'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 37",
+    "slot": "Front Right",
+    "name": "F2L 37 Front Right",
+    "algorithms": [
+      "R2 U2 F R2 F' U2 R' U R'",
+      "R' F R F' R U' R' U R U' R' U2 R U' R'",
+      "R U R' U2 R U2 R' U y' R' U' R",
+      "R U2 R' U R U2 R' U F' U' F"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 38",
+    "slot": "Front Right",
+    "name": "F2L 38 Front Right",
+    "algorithms": [
+      "R U' R' U' R U R' U2 R U' R'",
+      "R U R' U' R U2 R' U' R U R'",
+      "R2 U2 R' U' R U' R' U2 R'",
+      "R U' R' U' R U R' U' R U2 R'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 39",
+    "slot": "Front Right",
+    "name": "F2L 39 Front Right",
+    "algorithms": [
+      "R U' R' U R U2 R' U R U' R'",
+      "R U2 R U R' U R U2 R2",
+      "R U R' U2 R U' R' U R U R'",
+      "R U2 R' U R U' R' U R U R'"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 40",
+    "slot": "Front Right",
+    "name": "F2L 40 Front Right",
+    "algorithms": [
+      "r U' r' U2 r U r' R U R'",
+      "F' L' U2 L F R U R'",
+      "R U' R' F R U R' U' F' R U' R'",
+      "R U' R' U' R U' R' U y' R' U' R"
+    ]
+  },
+  {
+    "category": "F2L",
+    "case_id": "F2L 41",
+    "slot": "Front Right",
+    "name": "F2L 41 Front Right",
+    "algorithms": [
+      "R U' R' r U' r' U2 r U r'",
+      "R U' R' F' L' U2 L F",
+      "R U R' U' y M U' R' F R U M'",
+      "R U R' U' R U' R' U2 y' R' U' R"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 1",
+    "name": "OLL 1",
+    "algorithms": [
+      "R U2 R2 F R F' U2 R' F R F'",
+      "y R U' R2 D' r U' r' D R2 U R'",
+      "f R U R' U' R f' U' r' U' R U M'",
+      "L' U2 L2 F' L' F U2 L F' L' F"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 2",
+    "name": "OLL 2",
+    "algorithms": [
+      "y' R U' R2 D' r U r' D R2 U R'",
+      "F R U R' U' S R U R' U' f'",
+      "F R U R' U' F' f R U R' U' f'",
+      "y r U r' U2 R U2 R' U2 r U' r'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 3",
+    "name": "OLL 3",
+    "algorithms": [
+      "y' f R U R' U' f' U' F R U R' U' F'",
+      "y R' F2 R2 U2 R' F R U2 R2 F2 R",
+      "r' R2 U R' U r U2 r' U M'",
+      "M R U R' U r U2 r' U M'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 4",
+    "name": "OLL 4",
+    "algorithms": [
+      "y' R' F2 R2 U2 R' F' R U2 R2 F2 R",
+      "y' f R U R' U' f' U F R U R' U' F'",
+      "R' F R F' U' S R' U' R U R S'",
+      "y F U R U' R' F' U' F R U R' U' F'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 5",
+    "name": "OLL 5",
+    "algorithms": [
+      "r' U2 R U R' U r",
+      "y2 l' U2 L U L' U l",
+      "y2 R' F2 r U r' F R",
+      "y2 R' F2 L F L' F R"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 6",
+    "name": "OLL 6",
+    "algorithms": [
+      "r U2 R' U' R U' r'",
+      "F U' R2 D R' U' R D' R2 U F'",
+      "y2 l U2 L' U' L U' l'",
+      "y' x' D R2 U' R' U R' D' x"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 7",
+    "name": "OLL 7",
+    "algorithms": [
+      "r U R' U R U2 r'",
+      "S' R U R' U R U2 R' U S",
+      "L' U2 L U2 L F' L' F",
+      "y2 l U L' U L U2 l'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 8",
+    "name": "OLL 8",
+    "algorithms": [
+      "y2 r' U' R U' R' U2 r",
+      "l' U' L U' L' U2 l",
+      "R U2 R' U2 R' F R F'",
+      "R' F' r U' r' F2 R"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 9",
+    "name": "OLL 9",
+    "algorithms": [
+      "y R U R' U' R' F R2 U R' U' F'",
+      "R U2 R' U' S' R U' R' S",
+      "y2 F' U' F r U' r' U r U r'",
+      "y' L' U' L U' L F' L' F L' U2 L"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 10",
+    "name": "OLL 10",
+    "algorithms": [
+      "R U R' U R' F R F' R U2 R'",
+      "y F U F' R' F R U' R' F' R",
+      "y M' R' U2 R U R' U R U M",
+      "y2 L' U' L U L F' L2 U' L U F"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 11",
+    "name": "OLL 11",
+    "algorithms": [
+      "r' R2 U R' U R U2 R' U M'",
+      "y2 r U R' U R' F R F' R U2 r'",
+      "S R U R' U R U2 R' U2 S'",
+      "M R U R' U R U2 R' U M'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 12",
+    "name": "OLL 12",
+    "algorithms": [
+      "y' M' R' U' R U' R' U2 R U' M",
+      "F R U R' U' F' U F R U R' U' F'",
+      "y' S R' U' R U' R' U2 R U2 S'",
+      "y M L' U' L U' L' U2 L U' M'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 13",
+    "name": "OLL 13",
+    "algorithms": [
+      "F U R U2 R' U' R U R' F'",
+      "F U R U' R2 F' R U R U' R'",
+      "r U' r' U' r U r' F' U F",
+      "r U' r' U' r U r' y L' U L"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 14",
+    "name": "OLL 14",
+    "algorithms": [
+      "R' F R U R' F' R F U' F'",
+      "r U R' U' r' F R2 U R' U' F'",
+      "F' U' L' U L2 F L' U' L' U L",
+      "l' U l U l' U' l F U' F'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 15",
+    "name": "OLL 15",
+    "algorithms": [
+      "r' U' r R' U' R U r' U r",
+      "y2 l' U' l L' U' L U l' U l",
+      "r' U' M' U' R U r' U r",
+      "y2 R' F' R L' U' L U R' F R"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 16",
+    "name": "OLL 16",
+    "algorithms": [
+      "r U r' R U R' U' r U' r'",
+      "r U M U R' U' r U' r'",
+      "y2 R' F R U R' U' F' R U' R' U2 R",
+      "y2 l U l' L U L' U' l U' l'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 17",
+    "name": "OLL 17",
+    "algorithms": [
+      "R U R' U R' F R F' U2 R' F R F'",
+      "y2 F R' F' R U S' R U' R' S",
+      "y2 F R' F' R2 r' U R U' R' U' M'",
+      "y' F' r U r' U' S r' F r S'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 18",
+    "name": "OLL 18",
+    "algorithms": [
+      "y R U2 R2 F R F' U2 M' U R U' r'",
+      "r U R' U R U2 r2 U' R U' R' U2 r",
+      "y F S' R U' R' S R U2 R' U' F'",
+      "R D r' U' r D' R' U' R2 F R F' R"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 19",
+    "name": "OLL 19",
+    "algorithms": [
+      "y S' R U R' S U' R' F R F'",
+      "M U R U R' U' M' R' F R F'",
+      "R' U2 F R U R' U' F2 U2 F R",
+      "r' R U R U R' U' r R2 F R F'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 20",
+    "name": "OLL 20",
+    "algorithms": [
+      "r U R' U' M2 U R U' R' U' M'",
+      "M' U2 M U2 M' U M U2 M' U2 M",
+      "S' R U R' S U' M' U R U' r'",
+      "S R' U' R U R U R U' R' S'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 21",
+    "name": "OLL 21",
+    "algorithms": [
+      "R U R' U R U' R' U R U2 R'",
+      "y R U2 R' U' R U R' U' R U' R'",
+      "y F R U R' U' R U R' U' R U R' U' F'",
+      "R' U' R U' R' U R U' R' U2 R"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 22",
+    "name": "OLL 22",
+    "algorithms": [
+      "R U2 R2 U' R2 U' R2 U2 R",
+      "R' U2 R2 U R2 U R2 U2 R'",
+      "f R U R' U' S' R U R' U' F'",
+      "f R U R' U' f' F R U R' U' F'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 23",
+    "name": "OLL 23",
+    "algorithms": [
+      "R2 D R' U2 R D' R' U2 R'",
+      "y2 R2 D' R U2 R' D R U2 R",
+      "R U R' U R U2 R2 U' R U' R' U2 R",
+      "y R U R' U' R U' R' U2 R U' R' U2 R U R'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 24",
+    "name": "OLL 24",
+    "algorithms": [
+      "r U R' U' r' F R F'",
+      "y2 R' F' r U R U' r' F",
+      "y' x' R U R' D R U' R' D' x",
+      "y R U R D R' U' R D' R2"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 25",
+    "name": "OLL 25",
+    "algorithms": [
+      "R U2 R D R' U2 R D' R2",
+      "y F' r U R' U' r' F R",
+      "F R' F' r U R U' r'",
+      "x R' U R D' R' U' R D x'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 26",
+    "name": "OLL 26",
+    "algorithms": [
+      "y R U2 R' U' R U' R'",
+      "R' U' R U' R' U2 R",
+      "y2 L' U' L U' L' U2 L",
+      "y2 L' U R U' L U R'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 27",
+    "name": "OLL 27",
+    "algorithms": [
+      "R U R' U R U2 R'",
+      "y' R' U2 R U R' U R",
+      "y L' U2 L U L' U L",
+      "y2 L U L' U L U2 L'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 28",
+    "name": "OLL 28",
+    "algorithms": [
+      "r U R' U' M U R U' R'",
+      "R' F R S R' F' R S'",
+      "r U R' U' r' R U R U' R'",
+      "y2 M' U M U2 M' U M"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 29",
+    "name": "OLL 29",
+    "algorithms": [
+      "r2 D' r U r' D r2 U' r' U' r",
+      "y R U R' U' R U' R' F' U' F R U R'",
+      "y S' R U R' U' R' F R F' U S",
+      "M U R U R' U' R' F R F' M'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 30",
+    "name": "OLL 30",
+    "algorithms": [
+      "y' r' D' r U' r' D r2 U' r' U r U r'",
+      "y2 F U R U2 R' U' R U2 R' U' F'",
+      "y2 F R' F R2 U' R' U' R U R' F2",
+      "y S' R' U' R f R' U R U' F'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 31",
+    "name": "OLL 31",
+    "algorithms": [
+      "R' U' F U R U' R' F' R",
+      "y2 S' L' U' L U L F' L' f",
+      "y S R U R' U' f' U' F",
+      "y' F R' F' R U R U R' U' R U' R'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 32",
+    "name": "OLL 32",
+    "algorithms": [
+      "S R U R' U' R' F R f'",
+      "y2 L U F' U' L' U L F L'",
+      "R U B' U' R' U R B R'",
+      "y' R' F R F' U' r U' r' U r U r'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 33",
+    "name": "OLL 33",
+    "algorithms": [
+      "R U R' U' R' F R F'",
+      "y2 L' U' L U L F' L' F",
+      "y2 r' F' r U r U' r' F",
+      "R U R' F' U' F R U' R'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 34",
+    "name": "OLL 34",
+    "algorithms": [
+      "y f R f' U' r' U' R U M'",
+      "y2 R U R2 U' R' F R U R U' F'",
+      "F R U R' U' R' F' r U R U' r'",
+      "y2 R U R' U' B' R' F R F' B"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 35",
+    "name": "OLL 35",
+    "algorithms": [
+      "R U2 R2 F R F' R U2 R'",
+      "f R U R' U' f' R U R' U R U2 R'",
+      "R U2 R' d' R' F R U' R' F' R",
+      "y L' U2 L2 F' L' F L' U2 L"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 36",
+    "name": "OLL 36",
+    "algorithms": [
+      "y R U R2 F' U' F U R2 U2 R'",
+      "y2 L' U' L U' L' U L U L F' L' F",
+      "y2 R U R' F' R U R' U' R' F R U' R' F R F'",
+      "y2 R' F' U' F2 U R U' R' F' R"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 37",
+    "name": "OLL 37",
+    "algorithms": [
+      "F R' F' R U R U' R'",
+      "F R U' R' U' R U R' F'",
+      "y F' r U r' U' r' F r",
+      "y2 r2 D' r U' r' D r U r"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 38",
+    "name": "OLL 38",
+    "algorithms": [
+      "R U R' U R U' R' U' R' F R F'",
+      "y F R U' R' S U' R U R' f'",
+      "r U R' U' r' F R U R U' R' F'",
+      "y2 L U L' U L U' L' U' L' B L B'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 39",
+    "name": "OLL 39",
+    "algorithms": [
+      "y' f' r U r' U' r' F r S",
+      "y' R U R' F' U' F U R U2 R'",
+      "y L F' L' U' L U F U' L'",
+      "y' f' L F L' U' L' U L S"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 40",
+    "name": "OLL 40",
+    "algorithms": [
+      "y R' F R U R' U' F' U R",
+      "y' f R' F' R U R U' R' S'",
+      "R r D r' U r D' r' U' R'",
+      "y' L' U' L F U F' U' L' U2 L"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 41",
+    "name": "OLL 41",
+    "algorithms": [
+      "y2 R U R' U R U2 R' F R U R' U' F'",
+      "y2 F U R2 D R' U' R D' R2 F'",
+      "y' S U' R' F' U' F U R S'",
+      "M U' F' L' U' L U F M'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 42",
+    "name": "OLL 42",
+    "algorithms": [
+      "R' U' R U' R' U2 R F R U R' U' F'",
+      "y F S' R U R' U' F' U S",
+      "y R' F R F' R' F R F' R U R' U' R U R'",
+      "y R' U' F2 u' R U R' D R2 B"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 43",
+    "name": "OLL 43",
+    "algorithms": [
+      "y R' U' F' U F R",
+      "y2 F' U' L' U L F",
+      "f' L' U' L U f",
+      "B' U' R' U R B"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 44",
+    "name": "OLL 44",
+    "algorithms": [
+      "f R U R' U' f'",
+      "y2 F U R U' R' F'",
+      "y R U B U' B' R'",
+      "y' L U F U' F' L'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 45",
+    "name": "OLL 45",
+    "algorithms": [
+      "F R U R' U' F'",
+      "y R' F' U' F U R",
+      "y2 f U R U' R' f'",
+      "y2 F' L' U' L U F"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 46",
+    "name": "OLL 46",
+    "algorithms": [
+      "R' U' R' F R F' U R",
+      "R' F' U' F R U' R' U2 R",
+      "y F R U R' U' F' U' R U R' U R U2 R'",
+      "l' U2 L2 F' L' F U L' U l"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 47",
+    "name": "OLL 47",
+    "algorithms": [
+      "y' F R' F' R U2 R U' R' U R U2 R'",
+      "F' L' U' L U L' U' L U F",
+      "R' U' R' F R F' R' F R F' U R",
+      "y' R' F' U' F U F' U' F U R"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 48",
+    "name": "OLL 48",
+    "algorithms": [
+      "F R U R' U' R U R' U' F'",
+      "y2 f U R U' R' U R U' R' f'",
+      "R U2 R' U' R U R' U2 R' F R F'",
+      "F R' F' U2 R U R' U R2 U2 R'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 49",
+    "name": "OLL 49",
+    "algorithms": [
+      "y2 r U' r2 U r2 U r2 U' r",
+      "l U' l2 U l2 U l2 U' l",
+      "R B' R2 F R2 B R2 F' R",
+      "y2 R' F R' F' R2 U2 B' R B R'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 50",
+    "name": "OLL 50",
+    "algorithms": [
+      "r' U r2 U' r2 U' r2 U r'",
+      "y2 R' F R2 B' R2 F' R2 B R'",
+      "y' R U2 R' U' R U' R' F R U R' U' F'",
+      "y2 l' U l2 U' l2 U' l2 U l'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 51",
+    "name": "OLL 51",
+    "algorithms": [
+      "y2 F U R U' R' U R U' R' F'",
+      "f R U R' U' R U R' U' f'",
+      "y' R' U' R' F R F' R U' R' U2 R",
+      "y r' F' U' F U F' U' F U r"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 52",
+    "name": "OLL 52",
+    "algorithms": [
+      "y2 R' F' U' F U' R U R' U R",
+      "R U R' U R U' B U' B' R'",
+      "R U R' U R d' R U' R' F'",
+      "R U R' U R U' y R U' R' F'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 53",
+    "name": "OLL 53",
+    "algorithms": [
+      "r' U' R U' R' U R U' R' U2 r",
+      "y2 l' U' L U' L' U L U' L' U2 l",
+      "y r' U2 R U R' U' R U R' U r",
+      "y' l' U2 L U L' U' L U L' U l"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 54",
+    "name": "OLL 54",
+    "algorithms": [
+      "r U R' U R U' R' U R U2 r'",
+      "y' r U2 R' U' R U R' U' R U' r'",
+      "y' r U r' R U R' U' R U R' U' r U' r'",
+      "y2 l U L' U L U' L' U L U2 l'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 55",
+    "name": "OLL 55",
+    "algorithms": [
+      "y R' F U R U' R2 F' R2 U R' U' R",
+      "y R' F R U R U' R2 F' R2 U' R' U R U R'",
+      "R U2 R2 U' R U' R' U2 F R F'",
+      "r U2 R2 F R F' U2 r' F R F'"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 56",
+    "name": "OLL 56",
+    "algorithms": [
+      "r U r' U R U' R' U R U' R' r U' r'",
+      "r U r' U R U' R' M' U R U2 r'",
+      "F R U R' U' R F' r U R' U' r'",
+      "r' U' r U' R' U R U' R' U R r' U r"
+    ]
+  },
+  {
+    "category": "OLL",
+    "case_id": "OLL 57",
+    "name": "OLL 57",
+    "algorithms": [
+      "R U R' U' M' U R U' r'",
+      "y R U' R' S' R U R' S",
+      "y R U R' S' R U' R' S",
+      "R U R' U' R' r U R U' r'"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Aa",
+    "name": "PLL Aa",
+    "algorithms": [
+      "x R' U R' D2 R U' R' D2 R2 x'",
+      "y' x L2 D2 L' U' L D2 L' U L'",
+      "l' U R' D2 R U' R' D2 R2 x'",
+      "y x' R2 D2 R' U' R D2 R' U R' x"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Ab",
+    "name": "PLL Ab",
+    "algorithms": [
+      "x R2 D2 R U R' D2 R U' R x'",
+      "y' x L U' L D2 L' U L D2 L2",
+      "y x' R U' R D2 R' U R D2 R2 x",
+      "R' B' R U' R D R' U R D' R2 B R"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL E",
+    "name": "PLL E",
+    "algorithms": [
+      "y x' R U' R' D R U R' D' R U R' D R U' R' D' x",
+      "y R' U' R' D' R U' R' D R U R' D' R U R' D R2",
+      "R2 U F' R' U R U' R' U R U' R' U R U' F U' R2",
+      "y x' L' U L D' L' U' L D L' U' L D' L' U L D"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL F",
+    "name": "PLL F",
+    "algorithms": [
+      "y R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R",
+      "y R' F R f' R' F R2 U R' U' R' F' R2 U R' S",
+      "R' U R U' R2 F' U' F U R F R' F' R2",
+      "y R2 F R F' R' U' F' U F R2 U R' U' R"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Ga",
+    "name": "PLL Ga",
+    "algorithms": [
+      "R2 U R' U R' U' R U' R2 D U' R' U R D'",
+      "R2 u R' U R' U' R u' R2 F' U F",
+      "y R U R' F' R U R' U' R' F R U' R' F R2 U' R' U' R U R' F'",
+      "D' R2 U R' U R' U' R U' R2 U' D R' U R"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Gb",
+    "name": "PLL Gb",
+    "algorithms": [
+      "D R' U' R U D' R2 U R' U R U' R U' R2",
+      "R' U' R U D' R2 U R' U R U' R U' R2 D",
+      "y F' U' F R2 u R' U R U' R u' R2",
+      "R' d' F R2 u R' U R U' R u' R2"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Gc",
+    "name": "PLL Gc",
+    "algorithms": [
+      "y2 R2 F2 R U2 R U2 R' F R U R' U' R' F R2",
+      "R2 U' R U' R U R' U R2 D' U R U' R' D",
+      "D R2 U' R U' R U R' U R2 D' U R U' R'",
+      "R2 u' R U' R U R' u R2 f R' f'"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Gd",
+    "name": "PLL Gd",
+    "algorithms": [
+      "R U R' U' D R2 U' R U' R' U R' U R2 D'",
+      "D' R U R' U' D R2 U' R U' R' U R' U R2",
+      "R U R' y' R2 u' R U' R' U R' u R2",
+      "y R2 F' R U R U' R' F' R U2 R' U2 R' F2 R2"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL H",
+    "name": "PLL H",
+    "algorithms": [
+      "M2 U' M2 U2 M2 U' M2",
+      "M2 U M2 U2 M2 U M2",
+      "R2 S2 R2 U' R2 S2 R2",
+      "M2 U2 M2 U M2 U2 M2"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Ja",
+    "name": "PLL Ja",
+    "algorithms": [
+      "y2 x R2 F R F' R U2 r' U r U2 x'",
+      "y R' U L' U2 R U' R' U2 R L",
+      "L' U' L F L' U' L U L F' L2 U L",
+      "R U' L' U R' U2 L U' L' U2 L"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Jb",
+    "name": "PLL Jb",
+    "algorithms": [
+      "R U R' F' R U R' U' R' F R2 U' R'",
+      "R U2 R' U' R U2 L' U R' U' L",
+      "r' F R F' r U2 R' U R U2 R'",
+      "L' U R U' L U2 R' U R U2 R'"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Na",
+    "name": "PLL Na",
+    "algorithms": [
+      "R U R' U R U R' F' R U R' U' R' F R2 U' R' U2 R U' R'",
+      "F' R U R' U' R' F R2 F U' R' U' R U F' R'",
+      "R F U' R' U R U F' R2 F' R U R U' R' F",
+      "r' D r U2 r' D r U2 r' D r U2 r' D r U2 r' D r"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Nb",
+    "name": "PLL Nb",
+    "algorithms": [
+      "R' U R U' R' F' U' F R U R' F R' F' R U' R",
+      "r' D' F r U' r' F' D r2 U r' U' r' F r F'",
+      "R' U L' U2 R U' L R' U L' U2 R U' L",
+      "L' U' L U' L' U' L F L' U' L U L F' L2 U L U2 L' U L"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Ra",
+    "name": "PLL Ra",
+    "algorithms": [
+      "y R U' R' U' R U R D R' U' R D' R' U2 R'",
+      "y R U R' F' R U2 R' U2 R' F R U R U2 R'",
+      "L U2 L' U2 L F' L' U' L U L F L2",
+      "y R U' R' U' R U R' U R' D' R U' R' D R2 U R'"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Rb",
+    "name": "PLL Rb",
+    "algorithms": [
+      "R' U2 R U2 R' F R U R' U' R' F' R2",
+      "y R2 F R U R U' R' F' R U2 R' U2 R",
+      "R' U2 R' D' R U' R' D R U R U' R' U' R",
+      "y R' U R U R' U' R' D' R U R' D R U2 R"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL T",
+    "name": "PLL T",
+    "algorithms": [
+      "R U R' U' R' F R2 U' R' U' R U R' F'",
+      "l b d' L' U' F U2 L' U' L' U L U' f' S M r u E U' R'",
+      "R U R' U' R' F R2 U' R' U F' L' U L",
+      "R2 u R2 u' R2 F2 u' F2 u F2"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Ua",
+    "name": "PLL Ua",
+    "algorithms": [
+      "y2 M2 U M U2 M' U M2",
+      "R U R' U R' U' R2 U' R' U R' U R",
+      "y R2 U' S' U2 S U' R2",
+      "y2 R U' R U R U R U' R' U' R2"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Ub",
+    "name": "PLL Ub",
+    "algorithms": [
+      "y2 M2 U' M U2 M' U' M2",
+      "R' U R' U' R' U' R' U R U R2",
+      "R2' U R U R' U' R3 U' R' U R'",
+      "y2 R2 U R U R' U' R' U' R' U R'"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL V",
+    "name": "PLL V",
+    "algorithms": [
+      "R' U R' U' R D' R' D R' U D' R2 U' R2 D R2",
+      "R' U R U' R' f' U' R U2 R' U' R U' R' f R",
+      "y R U' R U R' D R D' R U' D R2 U R2 D' R2",
+      "R' U R' U' y R' F' R2 U' R' U R' F R F"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Y",
+    "name": "PLL Y",
+    "algorithms": [
+      "F R U' R' U' R U R' F' R U R' U' R' F R F'",
+      "F R' F R2 U' R' U' R U R' F' R U R' U' F'",
+      "R2 U' R2 U' R2 U F U F' R2 F U' F'",
+      "F R' F' R U R U' R2 U' R U R f' U' f"
+    ]
+  },
+  {
+    "category": "PLL",
+    "case_id": "PLL Z",
+    "name": "PLL Z",
+    "algorithms": [
+      "M' U' M2 U' M2 U' M' U2 M2",
+      "M2 U M2 U M' U2 M2 U2 M'",
+      "y M2 U' M2 U' M' U2 M2 U2 M'",
+      "y M' U M2 U M2 U M' U2 M2"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+APP_TITLE = "Rubik Trainer - PySide6"
+DEFAULT_W = 1280
+DEFAULT_H = 820
+FPS = 60
+SPACING = 1.12
+CUBIE_SIZE = 1.02
+STICKER_SIZE = 0.78
+STICKER_RADIUS = 0.085
+MOVE_DURATION_NORMAL = 0.075
+MOVE_DURATION_FAST = 0.045
+ENABLE_BLE = True
+ENABLE_GYRO_SYNC = True
+DEFAULT_AA_SAMPLES = 4
+AA_SAMPLE_OPTIONS = (0, 2, 4, 8)
+BLE_NAME_KEYWORD = "GAN"
+COLORS = {
+    "W": (0.96, 0.96, 0.92),
+    "Y": (1.00, 0.84, 0.03),
+    "R": (0.92, 0.04, 0.035),
+    "O": (1.00, 0.42, 0.02),
+    "B": (0.05, 0.22, 0.95),
+    "G": (0.00, 0.72, 0.18),
+    "X": (0.42, 0.44, 0.48),
+    "BODY": (0.018, 0.019, 0.022),
+    "BODY_LIGHT": (0.038, 0.040, 0.046),
+    "BODY_DARK": (0.006, 0.006, 0.008),
+    "EDGE": (0.095, 0.095, 0.105),
+    "STICKER_BORDER": (0.004, 0.004, 0.005),
+}

@@ -1,0 +1,4326 @@
+[
+  {
+    "timestamp": 1778768881,
+    "result": "OK",
+    "time_ms": 39733,
+    "time_text": "00:39:733",
+    "scramble": "B2 U' L B D B2 L2 D L2 F R2 F L B D R2 U2 R D2 L2",
+    "moves": 123,
+    "observation": "15s",
+    "move_log": [
+      {
+        "move": "L'",
+        "time_ms": 0
+      },
+      {
+        "move": "D'",
+        "time_ms": 233
+      },
+      {
+        "move": "B",
+        "time_ms": 1233
+      },
+      {
+        "move": "D'",
+        "time_ms": 1683
+      },
+      {
+        "move": "B",
+        "time_ms": 2116
+      },
+      {
+        "move": "R",
+        "time_ms": 2766
+      },
+      {
+        "move": "R",
+        "time_ms": 3883
+      },
+      {
+        "move": "U'",
+        "time_ms": 4483
+      },
+      {
+        "move": "F",
+        "time_ms": 4883
+      },
+      {
+        "move": "U",
+        "time_ms": 5099
+      },
+      {
+        "move": "F",
+        "time_ms": 5966
+      },
+      {
+        "move": "D'",
+        "time_ms": 6049
+      },
+      {
+        "move": "F'",
+        "time_ms": 6183
+      },
+      {
+        "move": "D",
+        "time_ms": 6383
+      },
+      {
+        "move": "R'",
+        "time_ms": 6899
+      },
+      {
+        "move": "D",
+        "time_ms": 7033
+      },
+      {
+        "move": "R",
+        "time_ms": 7099
+      },
+      {
+        "move": "D'",
+        "time_ms": 8249
+      },
+      {
+        "move": "D'",
+        "time_ms": 8816
+      },
+      {
+        "move": "B",
+        "time_ms": 8950
+      },
+      {
+        "move": "D'",
+        "time_ms": 9083
+      },
+      {
+        "move": "B'",
+        "time_ms": 9350
+      },
+      {
+        "move": "D'",
+        "time_ms": 9883
+      },
+      {
+        "move": "L'",
+        "time_ms": 10483
+      },
+      {
+        "move": "D'",
+        "time_ms": 10616
+      },
+      {
+        "move": "L",
+        "time_ms": 10766
+      },
+      {
+        "move": "D'",
+        "time_ms": 10833
+      },
+      {
+        "move": "L'",
+        "time_ms": 10983
+      },
+      {
+        "move": "D",
+        "time_ms": 11116
+      },
+      {
+        "move": "L",
+        "time_ms": 11250
+      },
+      {
+        "move": "D'",
+        "time_ms": 11666
+      },
+      {
+        "move": "D'",
+        "time_ms": 12600
+      },
+      {
+        "move": "R",
+        "time_ms": 13066
+      },
+      {
+        "move": "D'",
+        "time_ms": 13150
+      },
+      {
+        "move": "R'",
+        "time_ms": 13300
+      },
+      {
+        "move": "D",
+        "time_ms": 13333
+      },
+      {
+        "move": "R",
+        "time_ms": 13516
+      },
+      {
+        "move": "D'",
+        "time_ms": 13550
+      },
+      {
+        "move": "R'",
+        "time_ms": 13716
+      },
+      {
+        "move": "D",
+        "time_ms": 13866
+      },
+      {
+        "move": "D",
+        "time_ms": 13866
+      },
+      {
+        "move": "R",
+        "time_ms": 13950
+      },
+      {
+        "move": "D'",
+        "time_ms": 14033
+      },
+      {
+        "move": "R'",
+        "time_ms": 14116
+      },
+      {
+        "move": "D'",
+        "time_ms": 15450
+      },
+      {
+        "move": "D'",
+        "time_ms": 17033
+      },
+      {
+        "move": "D'",
+        "time_ms": 17416
+      },
+      {
+        "move": "L",
+        "time_ms": 17616
+      },
+      {
+        "move": "D",
+        "time_ms": 17700
+      },
+      {
+        "move": "L'",
+        "time_ms": 17733
+      },
+      {
+        "move": "D'",
+        "time_ms": 17866
+      },
+      {
+        "move": "L",
+        "time_ms": 17950
+      },
+      {
+        "move": "D",
+        "time_ms": 18100
+      },
+      {
+        "move": "L'",
+        "time_ms": 18116
+      },
+      {
+        "move": "D'",
+        "time_ms": 18800
+      },
+      {
+        "move": "R'",
+        "time_ms": 19650
+      },
+      {
+        "move": "B'",
+        "time_ms": 19783
+      },
+      {
+        "move": "B'",
+        "time_ms": 19883
+      },
+      {
+        "move": "L",
+        "time_ms": 20716
+      },
+      {
+        "move": "B",
+        "time_ms": 20800
+      },
+      {
+        "move": "L'",
+        "time_ms": 20833
+      },
+      {
+        "move": "B",
+        "time_ms": 20933
+      },
+      {
+        "move": "R",
+        "time_ms": 21583
+      },
+      {
+        "move": "B",
+        "time_ms": 23249
+      },
+      {
+        "move": "B",
+        "time_ms": 23383
+      },
+      {
+        "move": "L",
+        "time_ms": 23566
+      },
+      {
+        "move": "B'",
+        "time_ms": 24733
+      },
+      {
+        "move": "R'",
+        "time_ms": 24849
+      },
+      {
+        "move": "B",
+        "time_ms": 24933
+      },
+      {
+        "move": "L",
+        "time_ms": 25199
+      },
+      {
+        "move": "L",
+        "time_ms": 25333
+      },
+      {
+        "move": "B'",
+        "time_ms": 25549
+      },
+      {
+        "move": "R",
+        "time_ms": 25633
+      },
+      {
+        "move": "B'",
+        "time_ms": 25699
+      },
+      {
+        "move": "B'",
+        "time_ms": 27699
+      },
+      {
+        "move": "B'",
+        "time_ms": 27949
+      },
+      {
+        "move": "L",
+        "time_ms": 28099
+      },
+      {
+        "move": "B",
+        "time_ms": 28283
+      },
+      {
+        "move": "B",
+        "time_ms": 29266
+      },
+      {
+        "move": "L",
+        "time_ms": 31349
+      },
+      {
+        "move": "D'",
+        "time_ms": 31449
+      },
+      {
+        "move": "L'",
+        "time_ms": 31583
+      },
+      {
+        "move": "D",
+        "time_ms": 31716
+      },
+      {
+        "move": "D",
+        "time_ms": 31799
+      },
+      {
+        "move": "L",
+        "time_ms": 31866
+      },
+      {
+        "move": "D'",
+        "time_ms": 31983
+      },
+      {
+        "move": "L'",
+        "time_ms": 31983
+      },
+      {
+        "move": "D",
+        "time_ms": 33116
+      },
+      {
+        "move": "D'",
+        "time_ms": 33866
+      },
+      {
+        "move": "R",
+        "time_ms": 34183
+      },
+      {
+        "move": "D'",
+        "time_ms": 34216
+      },
+      {
+        "move": "D'",
+        "time_ms": 34283
+      },
+      {
+        "move": "R'",
+        "time_ms": 34416
+      },
+      {
+        "move": "D",
+        "time_ms": 34449
+      },
+      {
+        "move": "R",
+        "time_ms": 34549
+      },
+      {
+        "move": "D",
+        "time_ms": 34699
+      },
+      {
+        "move": "R'",
+        "time_ms": 34766
+      },
+      {
+        "move": "D'",
+        "time_ms": 35383
+      },
+      {
+        "move": "D'",
+        "time_ms": 35649
+      },
+      {
+        "move": "R",
+        "time_ms": 35816
+      },
+      {
+        "move": "D",
+        "time_ms": 35966
+      },
+      {
+        "move": "R'",
+        "time_ms": 36033
+      },
+      {
+        "move": "D",
+        "time_ms": 36099
+      },
+      {
+        "move": "R",
+        "time_ms": 36266
+      },
+      {
+        "move": "D'",
+        "time_ms": 36266
+      },
+      {
+        "move": "D'",
+        "time_ms": 36366
+      },
+      {
+        "move": "R'",
+        "time_ms": 36383
+      },
+      {
+        "move": "D'",
+        "time_ms": 37333
+      },
+      {
+        "move": "R",
+        "time_ms": 37583
+      },
+      {
+        "move": "D",
+        "time_ms": 37633
+      },
+      {
+        "move": "R'",
+        "time_ms": 37733
+      },
+      {
+        "move": "D'",
+        "time_ms": 37816
+      },
+      {
+        "move": "R'",
+        "time_ms": 38016
+      },
+      {
+        "move": "B",
+        "time_ms": 38649
+      },
+      {
+        "move": "R",
+        "time_ms": 38749
+      },
+      {
+        "move": "R",
+        "time_ms": 38849
+      },
+      {
+        "move": "D'",
+        "time_ms": 38849
+      },
+      {
+        "move": "R'",
+        "time_ms": 39099
+      },
+      {
+        "move": "D'",
+        "time_ms": 39249
+      },
+      {
+        "move": "R",
+        "time_ms": 39416
+      },
+      {
+        "move": "D",
+        "time_ms": 39449
+      },
+      {
+        "move": "R'",
+        "time_ms": 39549
+      },
+      {
+        "move": "B'",
+        "time_ms": 39583
+      }
+    ],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 6049,
+        "time_text": "00:06:049",
+        "moves": 12,
+        "tps": 1.98
+      },
+      {
+        "name": "F",
+        "time_ms": 4784,
+        "time_text": "00:04:784",
+        "moves": 15,
+        "tps": 3.14
+      },
+      {
+        "name": "F1",
+        "time_ms": 2883,
+        "time_text": "00:02:883",
+        "moves": 12,
+        "tps": 4.16
+      },
+      {
+        "name": "F2",
+        "time_ms": 4150,
+        "time_text": "00:04:150",
+        "moves": 12,
+        "tps": 2.89
+      },
+      {
+        "name": "F3",
+        "time_ms": 3717,
+        "time_text": "00:03:717",
+        "moves": 12,
+        "tps": 3.23
+      },
+      {
+        "name": "F4",
+        "time_ms": 6116,
+        "time_text": "00:06:116",
+        "moves": 12,
+        "tps": 1.96
+      },
+      {
+        "name": "O",
+        "time_ms": 7067,
+        "time_text": "00:07:067",
+        "moves": 22,
+        "tps": 3.11
+      },
+      {
+        "name": "P",
+        "time_ms": 4967,
+        "time_text": "00:04:967",
+        "moves": 26,
+        "tps": 5.23
+      }
+    ]
+  },
+  {
+    "timestamp": 1778764336,
+    "result": "DNF",
+    "time_ms": null,
+    "time_text": "DNF",
+    "scramble": "U2 B2 D B2 L' D' L2 F2 L' D' F U' R U2 B2 R2 F' U2 R' U",
+    "moves": 0,
+    "observation": "15s",
+    "move_log": [],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F1",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F2",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F3",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F4",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "O",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "P",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": 1778763478,
+    "result": "OK",
+    "time_ms": 43483,
+    "time_text": "00:43:483",
+    "scramble": "B U2 R' F U' R' U2 R B L2 D2 B' U2 L F D' F U R2 B'",
+    "moves": 103,
+    "observation": "15s",
+    "move_log": [
+      {
+        "move": "U",
+        "time_ms": 0
+      },
+      {
+        "move": "U",
+        "time_ms": 1683
+      },
+      {
+        "move": "U'",
+        "time_ms": 3366
+      },
+      {
+        "move": "B'",
+        "time_ms": 3466
+      },
+      {
+        "move": "U",
+        "time_ms": 3599
+      },
+      {
+        "move": "F",
+        "time_ms": 4766
+      },
+      {
+        "move": "F",
+        "time_ms": 4866
+      },
+      {
+        "move": "R'",
+        "time_ms": 6883
+      },
+      {
+        "move": "D'",
+        "time_ms": 6966
+      },
+      {
+        "move": "R",
+        "time_ms": 7066
+      },
+      {
+        "move": "D",
+        "time_ms": 7416
+      },
+      {
+        "move": "F'",
+        "time_ms": 7833
+      },
+      {
+        "move": "D",
+        "time_ms": 7949
+      },
+      {
+        "move": "F",
+        "time_ms": 8066
+      },
+      {
+        "move": "D'",
+        "time_ms": 11416
+      },
+      {
+        "move": "D'",
+        "time_ms": 12950
+      },
+      {
+        "move": "D'",
+        "time_ms": 13350
+      },
+      {
+        "move": "B",
+        "time_ms": 13533
+      },
+      {
+        "move": "D'",
+        "time_ms": 13616
+      },
+      {
+        "move": "B'",
+        "time_ms": 13700
+      },
+      {
+        "move": "D'",
+        "time_ms": 14183
+      },
+      {
+        "move": "D'",
+        "time_ms": 14650
+      },
+      {
+        "move": "D'",
+        "time_ms": 14933
+      },
+      {
+        "move": "R",
+        "time_ms": 15916
+      },
+      {
+        "move": "D'",
+        "time_ms": 16150
+      },
+      {
+        "move": "D'",
+        "time_ms": 16200
+      },
+      {
+        "move": "R'",
+        "time_ms": 16366
+      },
+      {
+        "move": "D",
+        "time_ms": 16533
+      },
+      {
+        "move": "R",
+        "time_ms": 16566
+      },
+      {
+        "move": "D'",
+        "time_ms": 16600
+      },
+      {
+        "move": "R'",
+        "time_ms": 16683
+      },
+      {
+        "move": "D'",
+        "time_ms": 18500
+      },
+      {
+        "move": "D'",
+        "time_ms": 18800
+      },
+      {
+        "move": "B",
+        "time_ms": 19100
+      },
+      {
+        "move": "D'",
+        "time_ms": 19116
+      },
+      {
+        "move": "D'",
+        "time_ms": 19150
+      },
+      {
+        "move": "B'",
+        "time_ms": 19300
+      },
+      {
+        "move": "D",
+        "time_ms": 20083
+      },
+      {
+        "move": "D",
+        "time_ms": 20150
+      },
+      {
+        "move": "D",
+        "time_ms": 21016
+      },
+      {
+        "move": "D'",
+        "time_ms": 22500
+      },
+      {
+        "move": "D'",
+        "time_ms": 22899
+      },
+      {
+        "move": "L'",
+        "time_ms": 23183
+      },
+      {
+        "move": "D'",
+        "time_ms": 23266
+      },
+      {
+        "move": "L",
+        "time_ms": 23349
+      },
+      {
+        "move": "D'",
+        "time_ms": 24166
+      },
+      {
+        "move": "D'",
+        "time_ms": 24516
+      },
+      {
+        "move": "D'",
+        "time_ms": 24916
+      },
+      {
+        "move": "D",
+        "time_ms": 25666
+      },
+      {
+        "move": "R'",
+        "time_ms": 26083
+      },
+      {
+        "move": "D'",
+        "time_ms": 26216
+      },
+      {
+        "move": "R",
+        "time_ms": 26449
+      },
+      {
+        "move": "R'",
+        "time_ms": 27383
+      },
+      {
+        "move": "D'",
+        "time_ms": 27583
+      },
+      {
+        "move": "D",
+        "time_ms": 28183
+      },
+      {
+        "move": "D'",
+        "time_ms": 28833
+      },
+      {
+        "move": "R",
+        "time_ms": 29349
+      },
+      {
+        "move": "D",
+        "time_ms": 29949
+      },
+      {
+        "move": "D",
+        "time_ms": 30366
+      },
+      {
+        "move": "F",
+        "time_ms": 30549
+      },
+      {
+        "move": "D'",
+        "time_ms": 30733
+      },
+      {
+        "move": "F'",
+        "time_ms": 30733
+      },
+      {
+        "move": "D'",
+        "time_ms": 30899
+      },
+      {
+        "move": "F",
+        "time_ms": 31233
+      },
+      {
+        "move": "D'",
+        "time_ms": 31316
+      },
+      {
+        "move": "F'",
+        "time_ms": 31483
+      },
+      {
+        "move": "D",
+        "time_ms": 31683
+      },
+      {
+        "move": "F",
+        "time_ms": 31749
+      },
+      {
+        "move": "D'",
+        "time_ms": 31849
+      },
+      {
+        "move": "F'",
+        "time_ms": 31899
+      },
+      {
+        "move": "D",
+        "time_ms": 32816
+      },
+      {
+        "move": "L",
+        "time_ms": 33333
+      },
+      {
+        "move": "D",
+        "time_ms": 33649
+      },
+      {
+        "move": "B",
+        "time_ms": 33766
+      },
+      {
+        "move": "D'",
+        "time_ms": 33849
+      },
+      {
+        "move": "B'",
+        "time_ms": 33916
+      },
+      {
+        "move": "L'",
+        "time_ms": 34099
+      },
+      {
+        "move": "D",
+        "time_ms": 34783
+      },
+      {
+        "move": "F'",
+        "time_ms": 35016
+      },
+      {
+        "move": "D'",
+        "time_ms": 35116
+      },
+      {
+        "move": "F",
+        "time_ms": 35349
+      },
+      {
+        "move": "D'",
+        "time_ms": 35499
+      },
+      {
+        "move": "F'",
+        "time_ms": 35566
+      },
+      {
+        "move": "D'",
+        "time_ms": 35766
+      },
+      {
+        "move": "D'",
+        "time_ms": 35799
+      },
+      {
+        "move": "F",
+        "time_ms": 35999
+      },
+      {
+        "move": "D",
+        "time_ms": 37916
+      },
+      {
+        "move": "R",
+        "time_ms": 41699
+      },
+      {
+        "move": "F'",
+        "time_ms": 41733
+      },
+      {
+        "move": "R'",
+        "time_ms": 41916
+      },
+      {
+        "move": "B",
+        "time_ms": 41949
+      },
+      {
+        "move": "R",
+        "time_ms": 42149
+      },
+      {
+        "move": "F",
+        "time_ms": 42249
+      },
+      {
+        "move": "R'",
+        "time_ms": 42266
+      },
+      {
+        "move": "B'",
+        "time_ms": 42366
+      },
+      {
+        "move": "R",
+        "time_ms": 42566
+      },
+      {
+        "move": "F",
+        "time_ms": 42666
+      },
+      {
+        "move": "R'",
+        "time_ms": 42766
+      },
+      {
+        "move": "B",
+        "time_ms": 42833
+      },
+      {
+        "move": "R",
+        "time_ms": 43033
+      },
+      {
+        "move": "F'",
+        "time_ms": 43116
+      },
+      {
+        "move": "R'",
+        "time_ms": 43299
+      },
+      {
+        "move": "B'",
+        "time_ms": 43399
+      }
+    ],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 7066,
+        "time_text": "00:07:066",
+        "moves": 10,
+        "tps": 1.42
+      },
+      {
+        "name": "F",
+        "time_ms": 7584,
+        "time_text": "00:07:584",
+        "moves": 12,
+        "tps": 1.58
+      },
+      {
+        "name": "F1",
+        "time_ms": 3850,
+        "time_text": "00:03:850",
+        "moves": 10,
+        "tps": 2.6
+      },
+      {
+        "name": "F2",
+        "time_ms": 4399,
+        "time_text": "00:04:399",
+        "moves": 10,
+        "tps": 2.27
+      },
+      {
+        "name": "F3",
+        "time_ms": 3550,
+        "time_text": "00:03:550",
+        "moves": 10,
+        "tps": 2.82
+      },
+      {
+        "name": "F4",
+        "time_ms": 4284,
+        "time_text": "00:04:284",
+        "moves": 10,
+        "tps": 2.33
+      },
+      {
+        "name": "O",
+        "time_ms": 4616,
+        "time_text": "00:04:616",
+        "moves": 19,
+        "tps": 4.12
+      },
+      {
+        "name": "P",
+        "time_ms": 8134,
+        "time_text": "00:08:134",
+        "moves": 22,
+        "tps": 2.7
+      }
+    ]
+  },
+  {
+    "timestamp": 1778756115,
+    "result": "OK",
+    "time_ms": 38949,
+    "time_text": "00:38:949",
+    "scramble": "F2 L2 D' B R2 B' U R U2 R' B2 R' U' B' R B D R2 U' B",
+    "moves": 114,
+    "observation": "15s",
+    "move_log": [
+      {
+        "move": "R",
+        "time_ms": 0
+      },
+      {
+        "move": "F",
+        "time_ms": 216
+      },
+      {
+        "move": "F",
+        "time_ms": 249
+      },
+      {
+        "move": "R",
+        "time_ms": 1499
+      },
+      {
+        "move": "D",
+        "time_ms": 1599
+      },
+      {
+        "move": "R'",
+        "time_ms": 1733
+      },
+      {
+        "move": "B'",
+        "time_ms": 2349
+      },
+      {
+        "move": "L",
+        "time_ms": 2383
+      },
+      {
+        "move": "B",
+        "time_ms": 2499
+      },
+      {
+        "move": "D'",
+        "time_ms": 3416
+      },
+      {
+        "move": "B",
+        "time_ms": 3816
+      },
+      {
+        "move": "B",
+        "time_ms": 3833
+      },
+      {
+        "move": "R",
+        "time_ms": 9566
+      },
+      {
+        "move": "D",
+        "time_ms": 9766
+      },
+      {
+        "move": "R'",
+        "time_ms": 9916
+      },
+      {
+        "move": "D",
+        "time_ms": 9983
+      },
+      {
+        "move": "R",
+        "time_ms": 10050
+      },
+      {
+        "move": "D'",
+        "time_ms": 10116
+      },
+      {
+        "move": "R'",
+        "time_ms": 10233
+      },
+      {
+        "move": "D",
+        "time_ms": 13500
+      },
+      {
+        "move": "D",
+        "time_ms": 13583
+      },
+      {
+        "move": "F",
+        "time_ms": 13716
+      },
+      {
+        "move": "D'",
+        "time_ms": 13883
+      },
+      {
+        "move": "F'",
+        "time_ms": 14266
+      },
+      {
+        "move": "D'",
+        "time_ms": 15366
+      },
+      {
+        "move": "R'",
+        "time_ms": 15816
+      },
+      {
+        "move": "D",
+        "time_ms": 15916
+      },
+      {
+        "move": "R",
+        "time_ms": 16033
+      },
+      {
+        "move": "D",
+        "time_ms": 16900
+      },
+      {
+        "move": "D'",
+        "time_ms": 17416
+      },
+      {
+        "move": "B",
+        "time_ms": 17933
+      },
+      {
+        "move": "D",
+        "time_ms": 18133
+      },
+      {
+        "move": "B'",
+        "time_ms": 18250
+      },
+      {
+        "move": "D",
+        "time_ms": 18650
+      },
+      {
+        "move": "D",
+        "time_ms": 18716
+      },
+      {
+        "move": "B",
+        "time_ms": 19133
+      },
+      {
+        "move": "D'",
+        "time_ms": 19216
+      },
+      {
+        "move": "B'",
+        "time_ms": 19433
+      },
+      {
+        "move": "D",
+        "time_ms": 19516
+      },
+      {
+        "move": "B",
+        "time_ms": 19616
+      },
+      {
+        "move": "D'",
+        "time_ms": 19683
+      },
+      {
+        "move": "B'",
+        "time_ms": 19783
+      },
+      {
+        "move": "L",
+        "time_ms": 20900
+      },
+      {
+        "move": "D'",
+        "time_ms": 20966
+      },
+      {
+        "move": "L'",
+        "time_ms": 21066
+      },
+      {
+        "move": "D",
+        "time_ms": 21150
+      },
+      {
+        "move": "L",
+        "time_ms": 21250
+      },
+      {
+        "move": "D'",
+        "time_ms": 21450
+      },
+      {
+        "move": "D'",
+        "time_ms": 21483
+      },
+      {
+        "move": "L'",
+        "time_ms": 21750
+      },
+      {
+        "move": "D",
+        "time_ms": 21866
+      },
+      {
+        "move": "D'",
+        "time_ms": 22550
+      },
+      {
+        "move": "L",
+        "time_ms": 22716
+      },
+      {
+        "move": "D",
+        "time_ms": 22916
+      },
+      {
+        "move": "L'",
+        "time_ms": 22966
+      },
+      {
+        "move": "D",
+        "time_ms": 23066
+      },
+      {
+        "move": "D",
+        "time_ms": 23199
+      },
+      {
+        "move": "L",
+        "time_ms": 23249
+      },
+      {
+        "move": "D'",
+        "time_ms": 23349
+      },
+      {
+        "move": "L'",
+        "time_ms": 23383
+      },
+      {
+        "move": "D",
+        "time_ms": 23999
+      },
+      {
+        "move": "D",
+        "time_ms": 24099
+      },
+      {
+        "move": "D'",
+        "time_ms": 24333
+      },
+      {
+        "move": "B",
+        "time_ms": 24616
+      },
+      {
+        "move": "D",
+        "time_ms": 24916
+      },
+      {
+        "move": "R",
+        "time_ms": 24983
+      },
+      {
+        "move": "D'",
+        "time_ms": 25066
+      },
+      {
+        "move": "R'",
+        "time_ms": 25133
+      },
+      {
+        "move": "B'",
+        "time_ms": 25316
+      },
+      {
+        "move": "D'",
+        "time_ms": 26483
+      },
+      {
+        "move": "L",
+        "time_ms": 26799
+      },
+      {
+        "move": "D'",
+        "time_ms": 26866
+      },
+      {
+        "move": "D'",
+        "time_ms": 26966
+      },
+      {
+        "move": "L'",
+        "time_ms": 27099
+      },
+      {
+        "move": "L'",
+        "time_ms": 27116
+      },
+      {
+        "move": "D'",
+        "time_ms": 27316
+      },
+      {
+        "move": "L",
+        "time_ms": 27449
+      },
+      {
+        "move": "L",
+        "time_ms": 27516
+      },
+      {
+        "move": "D'",
+        "time_ms": 27649
+      },
+      {
+        "move": "L'",
+        "time_ms": 28649
+      },
+      {
+        "move": "L'",
+        "time_ms": 28683
+      },
+      {
+        "move": "D'",
+        "time_ms": 28983
+      },
+      {
+        "move": "D'",
+        "time_ms": 29016
+      },
+      {
+        "move": "L",
+        "time_ms": 29249
+      },
+      {
+        "move": "R",
+        "time_ms": 33416
+      },
+      {
+        "move": "D'",
+        "time_ms": 33449
+      },
+      {
+        "move": "R",
+        "time_ms": 33583
+      },
+      {
+        "move": "D",
+        "time_ms": 33733
+      },
+      {
+        "move": "R",
+        "time_ms": 33799
+      },
+      {
+        "move": "D",
+        "time_ms": 34133
+      },
+      {
+        "move": "R",
+        "time_ms": 34233
+      },
+      {
+        "move": "D'",
+        "time_ms": 34316
+      },
+      {
+        "move": "R'",
+        "time_ms": 34483
+      },
+      {
+        "move": "D'",
+        "time_ms": 34616
+      },
+      {
+        "move": "R",
+        "time_ms": 34716
+      },
+      {
+        "move": "R",
+        "time_ms": 34816
+      },
+      {
+        "move": "D'",
+        "time_ms": 36533
+      },
+      {
+        "move": "R",
+        "time_ms": 36866
+      },
+      {
+        "move": "D",
+        "time_ms": 36966
+      },
+      {
+        "move": "R'",
+        "time_ms": 37049
+      },
+      {
+        "move": "D'",
+        "time_ms": 37116
+      },
+      {
+        "move": "R'",
+        "time_ms": 37383
+      },
+      {
+        "move": "B",
+        "time_ms": 37416
+      },
+      {
+        "move": "R",
+        "time_ms": 37483
+      },
+      {
+        "move": "R",
+        "time_ms": 37533
+      },
+      {
+        "move": "D'",
+        "time_ms": 37599
+      },
+      {
+        "move": "R'",
+        "time_ms": 37699
+      },
+      {
+        "move": "D'",
+        "time_ms": 37866
+      },
+      {
+        "move": "R",
+        "time_ms": 38099
+      },
+      {
+        "move": "D",
+        "time_ms": 38116
+      },
+      {
+        "move": "R'",
+        "time_ms": 38149
+      },
+      {
+        "move": "B'",
+        "time_ms": 38249
+      },
+      {
+        "move": "D",
+        "time_ms": 38783
+      },
+      {
+        "move": "D",
+        "time_ms": 38866
+      }
+    ],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 3816,
+        "time_text": "00:03:816",
+        "moves": 11,
+        "tps": 2.88
+      },
+      {
+        "name": "F",
+        "time_ms": 11550,
+        "time_text": "00:11:550",
+        "moves": 14,
+        "tps": 1.21
+      },
+      {
+        "name": "F1",
+        "time_ms": 3767,
+        "time_text": "00:03:767",
+        "moves": 11,
+        "tps": 2.92
+      },
+      {
+        "name": "F2",
+        "time_ms": 2117,
+        "time_text": "00:02:117",
+        "moves": 11,
+        "tps": 5.2
+      },
+      {
+        "name": "F3",
+        "time_ms": 1999,
+        "time_text": "00:01:999",
+        "moves": 11,
+        "tps": 5.5
+      },
+      {
+        "name": "F4",
+        "time_ms": 2067,
+        "time_text": "00:02:067",
+        "moves": 11,
+        "tps": 5.32
+      },
+      {
+        "name": "O",
+        "time_ms": 8817,
+        "time_text": "00:08:817",
+        "moves": 21,
+        "tps": 2.38
+      },
+      {
+        "name": "P",
+        "time_ms": 4816,
+        "time_text": "00:04:816",
+        "moves": 24,
+        "tps": 4.98
+      }
+    ]
+  },
+  {
+    "timestamp": 1778665584,
+    "result": "OK",
+    "time_ms": 44799,
+    "time_text": "00:44:799",
+    "scramble": "R U L F2 D2 B D L' B D R' D' B' U R D F' U R' U'",
+    "moves": 84,
+    "observation": "15s",
+    "move_log": [
+      {
+        "move": "U",
+        "time_ms": 533
+      },
+      {
+        "move": "R",
+        "time_ms": 816
+      },
+      {
+        "move": "U",
+        "time_ms": 2116
+      },
+      {
+        "move": "B",
+        "time_ms": 2616
+      },
+      {
+        "move": "R",
+        "time_ms": 3016
+      },
+      {
+        "move": "R",
+        "time_ms": 3066
+      },
+      {
+        "move": "U",
+        "time_ms": 5216
+      },
+      {
+        "move": "U",
+        "time_ms": 5249
+      },
+      {
+        "move": "U",
+        "time_ms": 6383
+      },
+      {
+        "move": "R'",
+        "time_ms": 6599
+      },
+      {
+        "move": "U",
+        "time_ms": 8299
+      },
+      {
+        "move": "U",
+        "time_ms": 9016
+      },
+      {
+        "move": "D'",
+        "time_ms": 11350
+      },
+      {
+        "move": "B'",
+        "time_ms": 14650
+      },
+      {
+        "move": "D",
+        "time_ms": 15050
+      },
+      {
+        "move": "D",
+        "time_ms": 15616
+      },
+      {
+        "move": "B",
+        "time_ms": 15833
+      },
+      {
+        "move": "D'",
+        "time_ms": 16250
+      },
+      {
+        "move": "B'",
+        "time_ms": 16366
+      },
+      {
+        "move": "D",
+        "time_ms": 16433
+      },
+      {
+        "move": "B",
+        "time_ms": 16500
+      },
+      {
+        "move": "D",
+        "time_ms": 17600
+      },
+      {
+        "move": "D",
+        "time_ms": 18783
+      },
+      {
+        "move": "R'",
+        "time_ms": 19766
+      },
+      {
+        "move": "D",
+        "time_ms": 19900
+      },
+      {
+        "move": "D",
+        "time_ms": 19950
+      },
+      {
+        "move": "R",
+        "time_ms": 20066
+      },
+      {
+        "move": "D'",
+        "time_ms": 20183
+      },
+      {
+        "move": "R'",
+        "time_ms": 20366
+      },
+      {
+        "move": "D",
+        "time_ms": 20466
+      },
+      {
+        "move": "R",
+        "time_ms": 20533
+      },
+      {
+        "move": "D'",
+        "time_ms": 21066
+      },
+      {
+        "move": "D'",
+        "time_ms": 22400
+      },
+      {
+        "move": "B",
+        "time_ms": 22883
+      },
+      {
+        "move": "D'",
+        "time_ms": 22916
+      },
+      {
+        "move": "B'",
+        "time_ms": 22999
+      },
+      {
+        "move": "D'",
+        "time_ms": 24083
+      },
+      {
+        "move": "D",
+        "time_ms": 24549
+      },
+      {
+        "move": "D'",
+        "time_ms": 24899
+      },
+      {
+        "move": "D'",
+        "time_ms": 25133
+      },
+      {
+        "move": "D'",
+        "time_ms": 25466
+      },
+      {
+        "move": "L",
+        "time_ms": 25599
+      },
+      {
+        "move": "D'",
+        "time_ms": 25749
+      },
+      {
+        "move": "L'",
+        "time_ms": 25883
+      },
+      {
+        "move": "D",
+        "time_ms": 25966
+      },
+      {
+        "move": "D",
+        "time_ms": 26099
+      },
+      {
+        "move": "L",
+        "time_ms": 26183
+      },
+      {
+        "move": "D'",
+        "time_ms": 26249
+      },
+      {
+        "move": "L'",
+        "time_ms": 26266
+      },
+      {
+        "move": "D",
+        "time_ms": 27333
+      },
+      {
+        "move": "D",
+        "time_ms": 27583
+      },
+      {
+        "move": "B",
+        "time_ms": 27983
+      },
+      {
+        "move": "D",
+        "time_ms": 28199
+      },
+      {
+        "move": "R",
+        "time_ms": 28299
+      },
+      {
+        "move": "D'",
+        "time_ms": 28416
+      },
+      {
+        "move": "R'",
+        "time_ms": 28449
+      },
+      {
+        "move": "B'",
+        "time_ms": 28666
+      },
+      {
+        "move": "D'",
+        "time_ms": 30333
+      },
+      {
+        "move": "D",
+        "time_ms": 30549
+      },
+      {
+        "move": "D",
+        "time_ms": 31183
+      },
+      {
+        "move": "L",
+        "time_ms": 31666
+      },
+      {
+        "move": "D",
+        "time_ms": 31766
+      },
+      {
+        "move": "D",
+        "time_ms": 31849
+      },
+      {
+        "move": "L'",
+        "time_ms": 31916
+      },
+      {
+        "move": "D'",
+        "time_ms": 31999
+      },
+      {
+        "move": "L",
+        "time_ms": 32133
+      },
+      {
+        "move": "D",
+        "time_ms": 32216
+      },
+      {
+        "move": "L'",
+        "time_ms": 32249
+      },
+      {
+        "move": "D'",
+        "time_ms": 32383
+      },
+      {
+        "move": "L",
+        "time_ms": 32499
+      },
+      {
+        "move": "D'",
+        "time_ms": 32599
+      },
+      {
+        "move": "L'",
+        "time_ms": 32716
+      },
+      {
+        "move": "L",
+        "time_ms": 42966
+      },
+      {
+        "move": "L",
+        "time_ms": 43049
+      },
+      {
+        "move": "D",
+        "time_ms": 43249
+      },
+      {
+        "move": "L",
+        "time_ms": 43316
+      },
+      {
+        "move": "D",
+        "time_ms": 43666
+      },
+      {
+        "move": "L'",
+        "time_ms": 43733
+      },
+      {
+        "move": "D'",
+        "time_ms": 43849
+      },
+      {
+        "move": "L'",
+        "time_ms": 43966
+      },
+      {
+        "move": "D'",
+        "time_ms": 44149
+      },
+      {
+        "move": "L'",
+        "time_ms": 44533
+      },
+      {
+        "move": "D",
+        "time_ms": 44633
+      },
+      {
+        "move": "L'",
+        "time_ms": 44666
+      }
+    ],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 5249,
+        "time_text": "00:05:249",
+        "moves": 8,
+        "tps": 1.52
+      },
+      {
+        "name": "F",
+        "time_ms": 11001,
+        "time_text": "00:11:001",
+        "moves": 10,
+        "tps": 0.91
+      },
+      {
+        "name": "F1",
+        "time_ms": 3700,
+        "time_text": "00:03:700",
+        "moves": 8,
+        "tps": 2.16
+      },
+      {
+        "name": "F2",
+        "time_ms": 2933,
+        "time_text": "00:02:933",
+        "moves": 8,
+        "tps": 2.73
+      },
+      {
+        "name": "F3",
+        "time_ms": 2716,
+        "time_text": "00:02:716",
+        "moves": 8,
+        "tps": 2.95
+      },
+      {
+        "name": "F4",
+        "time_ms": 1734,
+        "time_text": "00:01:734",
+        "moves": 8,
+        "tps": 4.61
+      },
+      {
+        "name": "O",
+        "time_ms": 4666,
+        "time_text": "00:04:666",
+        "moves": 15,
+        "tps": 3.21
+      },
+      {
+        "name": "P",
+        "time_ms": 12800,
+        "time_text": "00:12:800",
+        "moves": 19,
+        "tps": 1.48
+      }
+    ]
+  },
+  {
+    "timestamp": 1778665504,
+    "result": "OK",
+    "time_ms": 32966,
+    "time_text": "00:32:966",
+    "scramble": "D B R B D' R U2 F' U' F' R' D2 F U' B2 D F2 D' F' U2",
+    "moves": 95,
+    "observation": "15s",
+    "move_log": [
+      {
+        "move": "F'",
+        "time_ms": 0
+      },
+      {
+        "move": "L'",
+        "time_ms": 216
+      },
+      {
+        "move": "U'",
+        "time_ms": 883
+      },
+      {
+        "move": "L'",
+        "time_ms": 1183
+      },
+      {
+        "move": "U'",
+        "time_ms": 1916
+      },
+      {
+        "move": "D'",
+        "time_ms": 3316
+      },
+      {
+        "move": "B",
+        "time_ms": 3483
+      },
+      {
+        "move": "D'",
+        "time_ms": 3549
+      },
+      {
+        "move": "B'",
+        "time_ms": 3666
+      },
+      {
+        "move": "D",
+        "time_ms": 4016
+      },
+      {
+        "move": "B'",
+        "time_ms": 4516
+      },
+      {
+        "move": "D'",
+        "time_ms": 4616
+      },
+      {
+        "move": "D'",
+        "time_ms": 4633
+      },
+      {
+        "move": "B",
+        "time_ms": 4733
+      },
+      {
+        "move": "D",
+        "time_ms": 5633
+      },
+      {
+        "move": "R'",
+        "time_ms": 6316
+      },
+      {
+        "move": "D",
+        "time_ms": 6349
+      },
+      {
+        "move": "R",
+        "time_ms": 6449
+      },
+      {
+        "move": "D",
+        "time_ms": 7566
+      },
+      {
+        "move": "L",
+        "time_ms": 7816
+      },
+      {
+        "move": "D'",
+        "time_ms": 7866
+      },
+      {
+        "move": "L'",
+        "time_ms": 7966
+      },
+      {
+        "move": "D",
+        "time_ms": 8583
+      },
+      {
+        "move": "L'",
+        "time_ms": 8733
+      },
+      {
+        "move": "D'",
+        "time_ms": 8866
+      },
+      {
+        "move": "D'",
+        "time_ms": 8983
+      },
+      {
+        "move": "L",
+        "time_ms": 9116
+      },
+      {
+        "move": "D'",
+        "time_ms": 9533
+      },
+      {
+        "move": "D'",
+        "time_ms": 9933
+      },
+      {
+        "move": "D'",
+        "time_ms": 10333
+      },
+      {
+        "move": "B'",
+        "time_ms": 10866
+      },
+      {
+        "move": "D",
+        "time_ms": 10933
+      },
+      {
+        "move": "B",
+        "time_ms": 11033
+      },
+      {
+        "move": "D",
+        "time_ms": 11966
+      },
+      {
+        "move": "D",
+        "time_ms": 12500
+      },
+      {
+        "move": "L'",
+        "time_ms": 12983
+      },
+      {
+        "move": "D",
+        "time_ms": 13083
+      },
+      {
+        "move": "L",
+        "time_ms": 13183
+      },
+      {
+        "move": "D'",
+        "time_ms": 13366
+      },
+      {
+        "move": "D",
+        "time_ms": 13883
+      },
+      {
+        "move": "F'",
+        "time_ms": 14333
+      },
+      {
+        "move": "D'",
+        "time_ms": 14566
+      },
+      {
+        "move": "F",
+        "time_ms": 14666
+      },
+      {
+        "move": "D",
+        "time_ms": 15016
+      },
+      {
+        "move": "D",
+        "time_ms": 15333
+      },
+      {
+        "move": "L'",
+        "time_ms": 15833
+      },
+      {
+        "move": "D",
+        "time_ms": 15933
+      },
+      {
+        "move": "L",
+        "time_ms": 16016
+      },
+      {
+        "move": "D'",
+        "time_ms": 16083
+      },
+      {
+        "move": "L'",
+        "time_ms": 17316
+      },
+      {
+        "move": "D'",
+        "time_ms": 17316
+      },
+      {
+        "move": "L",
+        "time_ms": 17500
+      },
+      {
+        "move": "D",
+        "time_ms": 18150
+      },
+      {
+        "move": "D",
+        "time_ms": 18400
+      },
+      {
+        "move": "L",
+        "time_ms": 18750
+      },
+      {
+        "move": "D",
+        "time_ms": 18866
+      },
+      {
+        "move": "L'",
+        "time_ms": 18950
+      },
+      {
+        "move": "D'",
+        "time_ms": 19050
+      },
+      {
+        "move": "L'",
+        "time_ms": 19166
+      },
+      {
+        "move": "F",
+        "time_ms": 19250
+      },
+      {
+        "move": "L",
+        "time_ms": 19333
+      },
+      {
+        "move": "F'",
+        "time_ms": 19416
+      },
+      {
+        "move": "D",
+        "time_ms": 21633
+      },
+      {
+        "move": "R",
+        "time_ms": 23633
+      },
+      {
+        "move": "D'",
+        "time_ms": 23733
+      },
+      {
+        "move": "R",
+        "time_ms": 23849
+      },
+      {
+        "move": "D",
+        "time_ms": 23999
+      },
+      {
+        "move": "R",
+        "time_ms": 24066
+      },
+      {
+        "move": "D",
+        "time_ms": 24649
+      },
+      {
+        "move": "R",
+        "time_ms": 24749
+      },
+      {
+        "move": "D'",
+        "time_ms": 24816
+      },
+      {
+        "move": "R'",
+        "time_ms": 24883
+      },
+      {
+        "move": "D'",
+        "time_ms": 25033
+      },
+      {
+        "move": "R",
+        "time_ms": 25183
+      },
+      {
+        "move": "R",
+        "time_ms": 25266
+      },
+      {
+        "move": "D",
+        "time_ms": 28016
+      },
+      {
+        "move": "L",
+        "time_ms": 30316
+      },
+      {
+        "move": "D",
+        "time_ms": 30416
+      },
+      {
+        "move": "L'",
+        "time_ms": 30499
+      },
+      {
+        "move": "F'",
+        "time_ms": 30583
+      },
+      {
+        "move": "L",
+        "time_ms": 30916
+      },
+      {
+        "move": "D'",
+        "time_ms": 30999
+      },
+      {
+        "move": "D'",
+        "time_ms": 31066
+      },
+      {
+        "move": "L'",
+        "time_ms": 31133
+      },
+      {
+        "move": "D'",
+        "time_ms": 31316
+      },
+      {
+        "move": "D'",
+        "time_ms": 31416
+      },
+      {
+        "move": "L'",
+        "time_ms": 31533
+      },
+      {
+        "move": "F",
+        "time_ms": 31566
+      },
+      {
+        "move": "L",
+        "time_ms": 31666
+      },
+      {
+        "move": "D",
+        "time_ms": 31816
+      },
+      {
+        "move": "L",
+        "time_ms": 31949
+      },
+      {
+        "move": "D'",
+        "time_ms": 32149
+      },
+      {
+        "move": "D'",
+        "time_ms": 32166
+      },
+      {
+        "move": "L'",
+        "time_ms": 32299
+      },
+      {
+        "move": "D'",
+        "time_ms": 32899
+      }
+    ],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 4016,
+        "time_text": "00:04:016",
+        "moves": 10,
+        "tps": 2.49
+      },
+      {
+        "name": "F",
+        "time_ms": 3850,
+        "time_text": "00:03:850",
+        "moves": 11,
+        "tps": 2.86
+      },
+      {
+        "name": "F1",
+        "time_ms": 3000,
+        "time_text": "00:03:000",
+        "moves": 10,
+        "tps": 3.33
+      },
+      {
+        "name": "F2",
+        "time_ms": 3467,
+        "time_text": "00:03:467",
+        "moves": 10,
+        "tps": 2.88
+      },
+      {
+        "name": "F3",
+        "time_ms": 2983,
+        "time_text": "00:02:983",
+        "moves": 10,
+        "tps": 3.35
+      },
+      {
+        "name": "F4",
+        "time_ms": 2017,
+        "time_text": "00:02:017",
+        "moves": 10,
+        "tps": 4.96
+      },
+      {
+        "name": "O",
+        "time_ms": 11083,
+        "time_text": "00:11:083",
+        "moves": 17,
+        "tps": 1.53
+      },
+      {
+        "name": "P",
+        "time_ms": 2550,
+        "time_text": "00:02:550",
+        "moves": 17,
+        "tps": 6.67
+      }
+    ]
+  },
+  {
+    "timestamp": 1778664727,
+    "result": "DNF",
+    "time_ms": null,
+    "time_text": "DNF",
+    "scramble": "R B' U R U B2 L' F2 R2 B R F L' B' U2 F2 D2 F D2 R'",
+    "moves": 0,
+    "observation": "15s",
+    "move_log": [],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F1",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F2",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F3",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F4",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "O",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "P",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": 1778644178,
+    "result": "DNF",
+    "time_ms": null,
+    "time_text": "DNF",
+    "scramble": "L F' U' B2 U' L2 D2 R' D F R F2 U' F2 D F R U2 F' R'",
+    "moves": 0,
+    "observation": "15s",
+    "move_log": [],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F1",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F2",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F3",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F4",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "O",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "P",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": 1778638145,
+    "result": "DNF",
+    "time_ms": 28049,
+    "time_text": "DNF",
+    "scramble": "D2 B L2 B2 L' B' D' L' U2 B2 R U F' L' U' B2 U L2 F' U",
+    "moves": 67,
+    "observation": "15s",
+    "move_log": [
+      {
+        "move": "R'",
+        "time_ms": 0
+      },
+      {
+        "move": "B",
+        "time_ms": 683
+      },
+      {
+        "move": "L",
+        "time_ms": 1000
+      },
+      {
+        "move": "B'",
+        "time_ms": 2766
+      },
+      {
+        "move": "D",
+        "time_ms": 5249
+      },
+      {
+        "move": "D",
+        "time_ms": 5349
+      },
+      {
+        "move": "F",
+        "time_ms": 5933
+      },
+      {
+        "move": "F",
+        "time_ms": 5966
+      },
+      {
+        "move": "U",
+        "time_ms": 6583
+      },
+      {
+        "move": "D",
+        "time_ms": 7799
+      },
+      {
+        "move": "B",
+        "time_ms": 8383
+      },
+      {
+        "move": "D'",
+        "time_ms": 8666
+      },
+      {
+        "move": "B'",
+        "time_ms": 8850
+      },
+      {
+        "move": "R'",
+        "time_ms": 10116
+      },
+      {
+        "move": "D'",
+        "time_ms": 10216
+      },
+      {
+        "move": "D'",
+        "time_ms": 10300
+      },
+      {
+        "move": "R",
+        "time_ms": 10433
+      },
+      {
+        "move": "D'",
+        "time_ms": 10650
+      },
+      {
+        "move": "R'",
+        "time_ms": 10850
+      },
+      {
+        "move": "D",
+        "time_ms": 10950
+      },
+      {
+        "move": "R",
+        "time_ms": 11033
+      },
+      {
+        "move": "R",
+        "time_ms": 13266
+      },
+      {
+        "move": "D",
+        "time_ms": 13350
+      },
+      {
+        "move": "R'",
+        "time_ms": 13483
+      },
+      {
+        "move": "D'",
+        "time_ms": 14233
+      },
+      {
+        "move": "L",
+        "time_ms": 14666
+      },
+      {
+        "move": "D",
+        "time_ms": 14783
+      },
+      {
+        "move": "L'",
+        "time_ms": 14900
+      },
+      {
+        "move": "D",
+        "time_ms": 15100
+      },
+      {
+        "move": "L",
+        "time_ms": 15233
+      },
+      {
+        "move": "D'",
+        "time_ms": 15300
+      },
+      {
+        "move": "L'",
+        "time_ms": 15433
+      },
+      {
+        "move": "D",
+        "time_ms": 15816
+      },
+      {
+        "move": "D",
+        "time_ms": 15916
+      },
+      {
+        "move": "R",
+        "time_ms": 16100
+      },
+      {
+        "move": "D'",
+        "time_ms": 16200
+      },
+      {
+        "move": "R'",
+        "time_ms": 16283
+      },
+      {
+        "move": "B",
+        "time_ms": 18016
+      },
+      {
+        "move": "R",
+        "time_ms": 18233
+      },
+      {
+        "move": "D",
+        "time_ms": 18366
+      },
+      {
+        "move": "R'",
+        "time_ms": 18433
+      },
+      {
+        "move": "D'",
+        "time_ms": 18550
+      },
+      {
+        "move": "B'",
+        "time_ms": 18800
+      },
+      {
+        "move": "F",
+        "time_ms": 19800
+      },
+      {
+        "move": "D",
+        "time_ms": 20066
+      },
+      {
+        "move": "L",
+        "time_ms": 20266
+      },
+      {
+        "move": "D'",
+        "time_ms": 20350
+      },
+      {
+        "move": "L'",
+        "time_ms": 20450
+      },
+      {
+        "move": "F'",
+        "time_ms": 21133
+      },
+      {
+        "move": "D",
+        "time_ms": 22916
+      },
+      {
+        "move": "B",
+        "time_ms": 23966
+      },
+      {
+        "move": "R",
+        "time_ms": 24166
+      },
+      {
+        "move": "D'",
+        "time_ms": 24183
+      },
+      {
+        "move": "R'",
+        "time_ms": 24383
+      },
+      {
+        "move": "D'",
+        "time_ms": 24516
+      },
+      {
+        "move": "R",
+        "time_ms": 24749
+      },
+      {
+        "move": "D",
+        "time_ms": 25016
+      },
+      {
+        "move": "R'",
+        "time_ms": 25066
+      },
+      {
+        "move": "B'",
+        "time_ms": 25166
+      },
+      {
+        "move": "R",
+        "time_ms": 25583
+      },
+      {
+        "move": "D",
+        "time_ms": 25716
+      },
+      {
+        "move": "R'",
+        "time_ms": 25883
+      },
+      {
+        "move": "D'",
+        "time_ms": 25983
+      },
+      {
+        "move": "R'",
+        "time_ms": 26166
+      },
+      {
+        "move": "B",
+        "time_ms": 26233
+      },
+      {
+        "move": "R",
+        "time_ms": 26399
+      },
+      {
+        "move": "B'",
+        "time_ms": 26533
+      }
+    ],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 5933,
+        "time_text": "00:05:933",
+        "moves": 7,
+        "tps": 1.18
+      },
+      {
+        "name": "F",
+        "time_ms": 4283,
+        "time_text": "00:04:283",
+        "moves": 8,
+        "tps": 1.87
+      },
+      {
+        "name": "F1",
+        "time_ms": 3050,
+        "time_text": "00:03:050",
+        "moves": 7,
+        "tps": 2.3
+      },
+      {
+        "name": "F2",
+        "time_ms": 1834,
+        "time_text": "00:01:834",
+        "moves": 7,
+        "tps": 3.82
+      },
+      {
+        "name": "F3",
+        "time_ms": 1100,
+        "time_text": "00:01:100",
+        "moves": 7,
+        "tps": 6.36
+      },
+      {
+        "name": "F4",
+        "time_ms": 2600,
+        "time_text": "00:02:600",
+        "moves": 7,
+        "tps": 2.69
+      },
+      {
+        "name": "O",
+        "time_ms": 5716,
+        "time_text": "00:05:716",
+        "moves": 12,
+        "tps": 2.1
+      },
+      {
+        "name": "P",
+        "time_ms": 3533,
+        "time_text": "00:03:533",
+        "moves": 12,
+        "tps": 3.4
+      }
+    ]
+  },
+  {
+    "timestamp": 1778591703,
+    "result": "OK",
+    "time_ms": 44316,
+    "time_text": "00:44:316",
+    "scramble": "B2 U2 B2 L2 U' B' R B' L' B' L' B D R2 F D' R2 D F L",
+    "moves": 88,
+    "observation": "15s",
+    "move_log": [
+      {
+        "move": "U",
+        "time_ms": 0
+      },
+      {
+        "move": "R",
+        "time_ms": 316
+      },
+      {
+        "move": "R",
+        "time_ms": 350
+      },
+      {
+        "move": "D'",
+        "time_ms": 583
+      },
+      {
+        "move": "F",
+        "time_ms": 1300
+      },
+      {
+        "move": "F",
+        "time_ms": 1333
+      },
+      {
+        "move": "R",
+        "time_ms": 2566
+      },
+      {
+        "move": "D'",
+        "time_ms": 2999
+      },
+      {
+        "move": "D'",
+        "time_ms": 3483
+      },
+      {
+        "move": "B'",
+        "time_ms": 3633
+      },
+      {
+        "move": "L",
+        "time_ms": 3716
+      },
+      {
+        "move": "B",
+        "time_ms": 3749
+      },
+      {
+        "move": "D",
+        "time_ms": 7149
+      },
+      {
+        "move": "R",
+        "time_ms": 10100
+      },
+      {
+        "move": "D",
+        "time_ms": 10433
+      },
+      {
+        "move": "R'",
+        "time_ms": 10566
+      },
+      {
+        "move": "L'",
+        "time_ms": 11183
+      },
+      {
+        "move": "D'",
+        "time_ms": 11233
+      },
+      {
+        "move": "D'",
+        "time_ms": 11316
+      },
+      {
+        "move": "L",
+        "time_ms": 11316
+      },
+      {
+        "move": "R'",
+        "time_ms": 11733
+      },
+      {
+        "move": "D",
+        "time_ms": 11800
+      },
+      {
+        "move": "R",
+        "time_ms": 11933
+      },
+      {
+        "move": "D'",
+        "time_ms": 13750
+      },
+      {
+        "move": "L'",
+        "time_ms": 13933
+      },
+      {
+        "move": "D",
+        "time_ms": 14066
+      },
+      {
+        "move": "L",
+        "time_ms": 14150
+      },
+      {
+        "move": "D'",
+        "time_ms": 14583
+      },
+      {
+        "move": "D'",
+        "time_ms": 14966
+      },
+      {
+        "move": "D'",
+        "time_ms": 15300
+      },
+      {
+        "move": "B",
+        "time_ms": 15966
+      },
+      {
+        "move": "D",
+        "time_ms": 16066
+      },
+      {
+        "move": "B'",
+        "time_ms": 16300
+      },
+      {
+        "move": "D",
+        "time_ms": 16350
+      },
+      {
+        "move": "B",
+        "time_ms": 16433
+      },
+      {
+        "move": "D'",
+        "time_ms": 16566
+      },
+      {
+        "move": "B'",
+        "time_ms": 16566
+      },
+      {
+        "move": "D",
+        "time_ms": 17483
+      },
+      {
+        "move": "D",
+        "time_ms": 17933
+      },
+      {
+        "move": "D",
+        "time_ms": 18416
+      },
+      {
+        "move": "R",
+        "time_ms": 19016
+      },
+      {
+        "move": "D",
+        "time_ms": 19100
+      },
+      {
+        "move": "R'",
+        "time_ms": 19333
+      },
+      {
+        "move": "D",
+        "time_ms": 20050
+      },
+      {
+        "move": "D",
+        "time_ms": 20183
+      },
+      {
+        "move": "R",
+        "time_ms": 20566
+      },
+      {
+        "move": "D'",
+        "time_ms": 20850
+      },
+      {
+        "move": "D'",
+        "time_ms": 20883
+      },
+      {
+        "move": "R'",
+        "time_ms": 21083
+      },
+      {
+        "move": "R",
+        "time_ms": 21433
+      },
+      {
+        "move": "D",
+        "time_ms": 21633
+      },
+      {
+        "move": "R'",
+        "time_ms": 21750
+      },
+      {
+        "move": "D",
+        "time_ms": 21950
+      },
+      {
+        "move": "R",
+        "time_ms": 22050
+      },
+      {
+        "move": "D'",
+        "time_ms": 22150
+      },
+      {
+        "move": "R'",
+        "time_ms": 22516
+      },
+      {
+        "move": "L",
+        "time_ms": 24383
+      },
+      {
+        "move": "D",
+        "time_ms": 24583
+      },
+      {
+        "move": "L'",
+        "time_ms": 24683
+      },
+      {
+        "move": "D",
+        "time_ms": 24816
+      },
+      {
+        "move": "D",
+        "time_ms": 24899
+      },
+      {
+        "move": "L",
+        "time_ms": 24999
+      },
+      {
+        "move": "D'",
+        "time_ms": 25033
+      },
+      {
+        "move": "L'",
+        "time_ms": 25099
+      },
+      {
+        "move": "D",
+        "time_ms": 26283
+      },
+      {
+        "move": "D",
+        "time_ms": 26366
+      },
+      {
+        "move": "F",
+        "time_ms": 37433
+      },
+      {
+        "move": "L",
+        "time_ms": 37583
+      },
+      {
+        "move": "D",
+        "time_ms": 37649
+      },
+      {
+        "move": "L'",
+        "time_ms": 37733
+      },
+      {
+        "move": "D'",
+        "time_ms": 37833
+      },
+      {
+        "move": "F'",
+        "time_ms": 37983
+      },
+      {
+        "move": "D'",
+        "time_ms": 39233
+      },
+      {
+        "move": "B'",
+        "time_ms": 42099
+      },
+      {
+        "move": "D'",
+        "time_ms": 42183
+      },
+      {
+        "move": "B",
+        "time_ms": 42349
+      },
+      {
+        "move": "R",
+        "time_ms": 42516
+      },
+      {
+        "move": "B'",
+        "time_ms": 42633
+      },
+      {
+        "move": "D'",
+        "time_ms": 42733
+      },
+      {
+        "move": "B",
+        "time_ms": 42833
+      },
+      {
+        "move": "D",
+        "time_ms": 42983
+      },
+      {
+        "move": "B",
+        "time_ms": 43249
+      },
+      {
+        "move": "R'",
+        "time_ms": 43333
+      },
+      {
+        "move": "B'",
+        "time_ms": 43483
+      },
+      {
+        "move": "B'",
+        "time_ms": 43666
+      },
+      {
+        "move": "D",
+        "time_ms": 43666
+      },
+      {
+        "move": "B",
+        "time_ms": 43799
+      },
+      {
+        "move": "D",
+        "time_ms": 44249
+      }
+    ],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 3483,
+        "time_text": "00:03:483",
+        "moves": 9,
+        "tps": 2.58
+      },
+      {
+        "name": "F",
+        "time_ms": 7833,
+        "time_text": "00:07:833",
+        "moves": 11,
+        "tps": 1.4
+      },
+      {
+        "name": "F1",
+        "time_ms": 3650,
+        "time_text": "00:03:650",
+        "moves": 9,
+        "tps": 2.47
+      },
+      {
+        "name": "F2",
+        "time_ms": 2517,
+        "time_text": "00:02:517",
+        "moves": 9,
+        "tps": 3.58
+      },
+      {
+        "name": "F3",
+        "time_ms": 3367,
+        "time_text": "00:03:367",
+        "moves": 9,
+        "tps": 2.67
+      },
+      {
+        "name": "F4",
+        "time_ms": 1666,
+        "time_text": "00:01:666",
+        "moves": 9,
+        "tps": 5.4
+      },
+      {
+        "name": "O",
+        "time_ms": 15467,
+        "time_text": "00:15:467",
+        "moves": 16,
+        "tps": 1.03
+      },
+      {
+        "name": "P",
+        "time_ms": 6333,
+        "time_text": "00:06:333",
+        "moves": 16,
+        "tps": 2.53
+      }
+    ]
+  },
+  {
+    "timestamp": 1778591134,
+    "result": "DNF",
+    "time_ms": null,
+    "time_text": "DNF",
+    "scramble": "R2 U2 R D B2 L U2 B2 D F U2 L U F2 D' L' U2 L2 F' D",
+    "moves": 0,
+    "observation": "15s",
+    "move_log": [],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F1",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F2",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F3",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F4",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "O",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "P",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": 1778591066,
+    "result": "DNF",
+    "time_ms": null,
+    "time_text": "DNF",
+    "scramble": "D R F R U' B2 L' U2 L D2 B2 U2 F' L' B' U' F L B2 R2",
+    "moves": 0,
+    "observation": "15s",
+    "move_log": [],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F1",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F2",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F3",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F4",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "O",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "P",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": 1778590945,
+    "result": "DNF",
+    "time_ms": null,
+    "time_text": "DNF",
+    "scramble": "L' D F L U2 F U R2 D R2 F2 U B' L2 D L2 B D2 B' D",
+    "moves": 0,
+    "observation": "15s",
+    "move_log": [],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F1",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F2",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F3",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F4",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "O",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "P",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": 1778590814,
+    "result": "DNF",
+    "time_ms": null,
+    "time_text": "DNF",
+    "scramble": "R U R D2 F' D2 R2 U B2 R' D F2 L F' U B2 D L2 U' B",
+    "moves": 0,
+    "observation": "15s",
+    "move_log": [],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F1",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F2",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F3",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F4",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "O",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "P",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": 1778590784,
+    "result": "DNF",
+    "time_ms": null,
+    "time_text": "DNF",
+    "scramble": "D2 L' F' D' L2 B U' R' F' L F L U F D' B U2 R B2 R2",
+    "moves": 0,
+    "observation": "15s",
+    "move_log": [],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F1",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F2",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F3",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F4",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "O",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "P",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": 1778590735,
+    "result": "DNF",
+    "time_ms": null,
+    "time_text": "DNF",
+    "scramble": "B2 R F R2 F R D B D F' L' U2 L U R' F' U B D F'",
+    "moves": 0,
+    "observation": "15s",
+    "move_log": [],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F1",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F2",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F3",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F4",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "O",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "P",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      }
+    ]
+  },
+  {
+    "timestamp": 1778589532,
+    "result": "OK",
+    "time_ms": 26399,
+    "time_text": "00:26:399",
+    "scramble": "U' R2 D B' U L' U' R' U' L' U B' U' B U2 R B2 U2 R' B2",
+    "moves": 99,
+    "observation": "15s",
+    "move_log": [
+      {
+        "move": "F",
+        "time_ms": 0
+      },
+      {
+        "move": "L",
+        "time_ms": 166
+      },
+      {
+        "move": "L",
+        "time_ms": 233
+      },
+      {
+        "move": "D'",
+        "time_ms": 2083
+      },
+      {
+        "move": "F'",
+        "time_ms": 2833
+      },
+      {
+        "move": "D'",
+        "time_ms": 3033
+      },
+      {
+        "move": "F",
+        "time_ms": 3133
+      },
+      {
+        "move": "D",
+        "time_ms": 3283
+      },
+      {
+        "move": "D",
+        "time_ms": 3383
+      },
+      {
+        "move": "F'",
+        "time_ms": 3483
+      },
+      {
+        "move": "D",
+        "time_ms": 3616
+      },
+      {
+        "move": "F",
+        "time_ms": 3799
+      },
+      {
+        "move": "D'",
+        "time_ms": 3799
+      },
+      {
+        "move": "F'",
+        "time_ms": 3949
+      },
+      {
+        "move": "D",
+        "time_ms": 3983
+      },
+      {
+        "move": "F",
+        "time_ms": 4133
+      },
+      {
+        "move": "D'",
+        "time_ms": 6599
+      },
+      {
+        "move": "R",
+        "time_ms": 7116
+      },
+      {
+        "move": "D",
+        "time_ms": 7283
+      },
+      {
+        "move": "R'",
+        "time_ms": 7399
+      },
+      {
+        "move": "R",
+        "time_ms": 7733
+      },
+      {
+        "move": "D",
+        "time_ms": 7833
+      },
+      {
+        "move": "R'",
+        "time_ms": 7866
+      },
+      {
+        "move": "D'",
+        "time_ms": 8016
+      },
+      {
+        "move": "L'",
+        "time_ms": 8249
+      },
+      {
+        "move": "D",
+        "time_ms": 8283
+      },
+      {
+        "move": "L",
+        "time_ms": 8433
+      },
+      {
+        "move": "D",
+        "time_ms": 9200
+      },
+      {
+        "move": "R",
+        "time_ms": 9350
+      },
+      {
+        "move": "D",
+        "time_ms": 9716
+      },
+      {
+        "move": "R'",
+        "time_ms": 9883
+      },
+      {
+        "move": "D",
+        "time_ms": 10566
+      },
+      {
+        "move": "F",
+        "time_ms": 11850
+      },
+      {
+        "move": "D'",
+        "time_ms": 11933
+      },
+      {
+        "move": "F'",
+        "time_ms": 12016
+      },
+      {
+        "move": "D",
+        "time_ms": 12200
+      },
+      {
+        "move": "F",
+        "time_ms": 12266
+      },
+      {
+        "move": "D'",
+        "time_ms": 12366
+      },
+      {
+        "move": "D'",
+        "time_ms": 12400
+      },
+      {
+        "move": "F'",
+        "time_ms": 12550
+      },
+      {
+        "move": "D",
+        "time_ms": 12683
+      },
+      {
+        "move": "F",
+        "time_ms": 12800
+      },
+      {
+        "move": "D'",
+        "time_ms": 13016
+      },
+      {
+        "move": "F'",
+        "time_ms": 13183
+      },
+      {
+        "move": "F",
+        "time_ms": 13800
+      },
+      {
+        "move": "D'",
+        "time_ms": 13866
+      },
+      {
+        "move": "F'",
+        "time_ms": 13983
+      },
+      {
+        "move": "D",
+        "time_ms": 14100
+      },
+      {
+        "move": "F",
+        "time_ms": 14183
+      },
+      {
+        "move": "D'",
+        "time_ms": 14216
+      },
+      {
+        "move": "D'",
+        "time_ms": 14333
+      },
+      {
+        "move": "F'",
+        "time_ms": 14483
+      },
+      {
+        "move": "D",
+        "time_ms": 14516
+      },
+      {
+        "move": "F",
+        "time_ms": 14650
+      },
+      {
+        "move": "D'",
+        "time_ms": 14683
+      },
+      {
+        "move": "F'",
+        "time_ms": 14750
+      },
+      {
+        "move": "D",
+        "time_ms": 15550
+      },
+      {
+        "move": "D",
+        "time_ms": 15716
+      },
+      {
+        "move": "L",
+        "time_ms": 16216
+      },
+      {
+        "move": "D",
+        "time_ms": 16400
+      },
+      {
+        "move": "B",
+        "time_ms": 16500
+      },
+      {
+        "move": "D'",
+        "time_ms": 16533
+      },
+      {
+        "move": "B'",
+        "time_ms": 16633
+      },
+      {
+        "move": "L'",
+        "time_ms": 16850
+      },
+      {
+        "move": "D",
+        "time_ms": 17700
+      },
+      {
+        "move": "D",
+        "time_ms": 17883
+      },
+      {
+        "move": "F'",
+        "time_ms": 18216
+      },
+      {
+        "move": "D'",
+        "time_ms": 18316
+      },
+      {
+        "move": "F",
+        "time_ms": 18433
+      },
+      {
+        "move": "D'",
+        "time_ms": 18500
+      },
+      {
+        "move": "F'",
+        "time_ms": 18600
+      },
+      {
+        "move": "D'",
+        "time_ms": 18766
+      },
+      {
+        "move": "D'",
+        "time_ms": 18833
+      },
+      {
+        "move": "F",
+        "time_ms": 19000
+      },
+      {
+        "move": "D",
+        "time_ms": 21533
+      },
+      {
+        "move": "D",
+        "time_ms": 21916
+      },
+      {
+        "move": "D",
+        "time_ms": 22550
+      },
+      {
+        "move": "R",
+        "time_ms": 24249
+      },
+      {
+        "move": "L'",
+        "time_ms": 24249
+      },
+      {
+        "move": "F",
+        "time_ms": 24383
+      },
+      {
+        "move": "R",
+        "time_ms": 24566
+      },
+      {
+        "move": "L'",
+        "time_ms": 24566
+      },
+      {
+        "move": "R",
+        "time_ms": 24616
+      },
+      {
+        "move": "L'",
+        "time_ms": 24699
+      },
+      {
+        "move": "B",
+        "time_ms": 24699
+      },
+      {
+        "move": "R",
+        "time_ms": 24899
+      },
+      {
+        "move": "L'",
+        "time_ms": 24999
+      },
+      {
+        "move": "R",
+        "time_ms": 25333
+      },
+      {
+        "move": "L'",
+        "time_ms": 25333
+      },
+      {
+        "move": "F",
+        "time_ms": 25466
+      },
+      {
+        "move": "R",
+        "time_ms": 25616
+      },
+      {
+        "move": "L'",
+        "time_ms": 25616
+      },
+      {
+        "move": "U",
+        "time_ms": 25866
+      },
+      {
+        "move": "U",
+        "time_ms": 25949
+      },
+      {
+        "move": "R",
+        "time_ms": 26033
+      },
+      {
+        "move": "L'",
+        "time_ms": 26033
+      },
+      {
+        "move": "R",
+        "time_ms": 26099
+      },
+      {
+        "move": "L'",
+        "time_ms": 26099
+      },
+      {
+        "move": "D'",
+        "time_ms": 26249
+      }
+    ],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 3483,
+        "time_text": "00:03:483",
+        "moves": 10,
+        "tps": 2.87
+      },
+      {
+        "name": "F",
+        "time_ms": 4350,
+        "time_text": "00:04:350",
+        "moves": 12,
+        "tps": 2.76
+      },
+      {
+        "name": "F1",
+        "time_ms": 2733,
+        "time_text": "00:02:733",
+        "moves": 10,
+        "tps": 3.66
+      },
+      {
+        "name": "F2",
+        "time_ms": 2234,
+        "time_text": "00:02:234",
+        "moves": 10,
+        "tps": 4.48
+      },
+      {
+        "name": "F3",
+        "time_ms": 1683,
+        "time_text": "00:01:683",
+        "moves": 10,
+        "tps": 5.94
+      },
+      {
+        "name": "F4",
+        "time_ms": 2050,
+        "time_text": "00:02:050",
+        "moves": 10,
+        "tps": 4.88
+      },
+      {
+        "name": "O",
+        "time_ms": 7850,
+        "time_text": "00:07:850",
+        "moves": 18,
+        "tps": 2.29
+      },
+      {
+        "name": "P",
+        "time_ms": 2016,
+        "time_text": "00:02:016",
+        "moves": 19,
+        "tps": 9.42
+      }
+    ]
+  },
+  {
+    "timestamp": 1778589449,
+    "result": "DNF",
+    "time_ms": null,
+    "time_text": "DNF",
+    "scramble": "D2 L F2 D2 B' R F' D R' D' B2 U' F R2 U R F2 R U R2",
+    "moves": 0,
+    "observation": "15s",
+    "move_log": [],
+    "cfop_stats": [
+      {
+        "name": "C",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F1",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F2",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F3",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "F4",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "O",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      },
+      {
+        "name": "P",
+        "time_ms": 0,
+        "time_text": "00:00:000",
+        "moves": 0,
+        "tps": 0.0
+      }
+    ]
+  }
+]
