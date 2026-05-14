@@ -1,4 +1,3 @@
-cat > RubikTrainer.spec <<'EOF'
 # -*- mode: python ; coding: utf-8 -*-
 
 from PyInstaller.utils.hooks import collect_submodules
@@ -43,4 +42,3 @@ exe = EXE(
     codesign_identity=None,
     entitlements_file=None,
 )
-EOF
