@@ -1,25 +1,26 @@
+cat > RubikTrainer.spec <<'EOF'
 # -*- mode: python ; coding: utf-8 -*-
+
 from PyInstaller.utils.hooks import collect_submodules
 
-hiddenimports = ['kociemba']
-hiddenimports += collect_submodules('bleak')
-hiddenimports += collect_submodules('Crypto')
-hiddenimports += collect_submodules('OpenGL')
-
+hiddenimports = []
+hiddenimports += collect_submodules("bleak")
+hiddenimports += collect_submodules("OpenGL")
 
 a = Analysis(
-    ['main.py'],
-    pathex=[],
+    ["main.py"],
+    pathex=["."],
     binaries=[],
-    datas=[('formulas', 'formulas')],
+    datas=[],
     hiddenimports=hiddenimports,
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
-    excludes=[],
+    excludes=["tkinter", "unittest"],
     noarchive=False,
     optimize=0,
 )
+
 pyz = PYZ(a.pure)
 
 exe = EXE(
@@ -28,11 +29,11 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='RubikTrainer',
+    name="RubikTrainer",
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
-    upx=True,
+    upx=False,
     upx_exclude=[],
     runtime_tmpdir=None,
     console=False,
@@ -42,3 +43,4 @@ exe = EXE(
     codesign_identity=None,
     entitlements_file=None,
 )
+EOF
